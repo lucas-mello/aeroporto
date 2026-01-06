@@ -1,0 +1,2992 @@
+início
+---------------------
+*Estratégias avançadas do Sudoku* 
+
+https://www.sudokuonline.io/pt/dicas/estrategias-avancadas-de-sudoku
+
+http://horadosudoku.blogspot.com/2010/01/tecnicas-avancadas-i.html?m=1
+
+http://horadosudoku.blogspot.com/2010/01/tecnicas-avancadas-ii.html?m=1
+----------------------------------
+ *Jogos:(tem mais sites no Google)* 
+
+http://www.sudokultist.com/pt/sudoku/jogo-sudoku-com-numeros-e-letras.html
+
+http://www.sudokumania.com.ar/sm1/super-sudoku.php
+
+https://html5.gamedistribution.com/27673bc45d2e4b27b7cd24e422f7c257/
+
+https://onlinesudoku.com.br/
+
+https://sudokuonline.pt/sudoku-demoniaco/
+--------------------
+*Níveis* 
+
+https://www.sudoku.name/mobile.php?ln=pt&killer_sudoku=0
+
+https://www.sudoku-online.org/
+
+https://sudoku.com/pt/killer
+
+https://rachacuca.com.br/jogos/killer-sudoku/
+
+Matador ou killer
+------------------------------------
+http://ro.sudokuonline.eu/dificil.html
+
+http://sudoku.menu/diagonal.html
+
+Diagonal
+------------------------------------
+https://www.geniol.com.br/logica/sudoku/dificil/1/
+
+Com marcação
+
+Até muito difícil
+------------------------------------
+https://www.sudoku.academy/pt/diabolico/
+
+Login e diabólico
+------------------------------------
+https://www.sudokuonline.io/pt/dificil
+
+Até impossível
+------------------------------------
+https://sudokutable.com/?_r=0.7561939067030388
+
+Até impossível
+------------------------------------
+https://sudoku.com/pt/evil/
+
+Até diabólico
+------------------------------------
+https://www.sudokumania.com.ar/juegos/sudoku/
+
+Até impossível como hyper difícil e marcação
+------------------------------------
+https://pt.sudokupuzzle.org/
+
+Até super
+------------------------------------
+https://pt.sudoku-online.net/sudoku-muito-dificil/
+
+Até muito difícil
+------------------------------------
+https://brainsudoku.com/pt/
+
+Até nível difícil ++
+------------------------------------
+https://www.livesudoku.com/pt/sudoku/hard/
+
+Até difícil com login
+------------------------------------
+https://www.a77.com.br/sudoku/sudoku_dificil_4.php
+
+Até difícil
+------------------------------------
+https://www.hajapaciencia.com.br/sudoku/
+
+Até muito difícil com marcação
+------------------------------------
+https://www.matematica.pt/fun/sudoku-online.php
+
+Até extreme
+------------------------------------
+https://www.xn--jogosraciocnio-bmb.com/sudoku-dificil-online-gratis/
+
+Até difícil
+------------------------------------
+https://www.subutai.mn/pt/sudoku/
+
+Até extremo
+------------------------------------
+ *Diferentes* 
+
+https://www.coquinhos.com/sudoku-de-cores/play/
+
+De cores
+------------------------------------
+https://www.jogos360.com.br/sudoku/
+
+PC
+------------------------------------
+https://poki.com.br/g/wordoku#
+
+Wordoku
+-----------------------------------
+ *Sudoku everest*
+
+https://images.app.goo.gl/pWQMV2FZ7J9nRfam6
+
+https://drive.google.com/file/d/1Pg4OyR4pDsAFmadA4NB3gbPqKq0SEijr/view?usp=drivesdk
+
+https://www.sitedecuriosidades.com/curiosidade/este-e-o-sudoku-mais-dificil-do-mundo.html
+
+https://www.google.com.br/m?q=sudoku+mais+dif%C3%ADcil+do+mundo&client=ms-opera-mobile&channel=new&espv=1
+
+https://www.google.com.br/m?q=sudoku+Everest&client=ms-opera-mobile&channel=new&espv=1
+
+https://www.google.com.br/m?q=sudoku+everest+online&client=ms-opera-mobile&channel=new&espv=1#ip=1
+
+https://es.liveworksheets.com/worksheets/es/Matem%C3%A1ticas/Sudokus/El_sudoku_m%C3%A0s_dificil_(no_es_mio)_autor*Everest._sl1401407zp
+
+Everest online
+------------------------------------
+ *Outros jogos:*
+
+https://www.google.com/search?q=phitomel+sudoku&bih=657&biw=1024&hl=pt-BR&ei=mHH-Yv2rD7Du1sQPqISGiA8&oq=phistomefel+su&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCAAQgAQQCjIICAAQHhAWEAoyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgQIABATOgYIABAeEBM6CggAEB4QFhAKEBM6CAgAEB4QFhATSgQIQRgASgQIRhgAUHlYlglgzxFoAXABeACAAY8BiAGZA5IBAzAuM5gBAKABAcgBCsABAQ&sclient=gws-wiz
+
+phistimefel sudoku
+(Resolver avançados)
+------------------------------------
+https://www.youtube.com/watch?v=HsqFl3K1xW0
+
+Sudoku irregular flecha
+------------------------------------
+https://www.youtube.com/watch?v=8bLwVqxRq4k
+
+Arranha céu
+---------------------
+https://www.f-puzzles.com/?load=N4IgzglgXgpiBcB2ANCALhNAbO8QGUBrATzAGMAnAQwAcYKwACfAVwBMB7QlxgCgGYmAMkYAWMAEoQqKizQALDhQQF2XFgFEAHjSxL60kBRY4wMNCo1Uy8xhQ4B3ZIzIcsLALYA7RlS9s7GABzCA4fVy80KggvJgUYRjYIELQmAEZGNA5GRAA6AB0vQqJSSlp6RgAlExgmXgdMWy9gqgwANwSIsDRqGLQJeEKrGxcYLCwXMKiYpipGMBJyajoKRgaFRnkYZPk0RhCOnwAjYkytxOTMRhizzrGsAq8ACR2KhdLl+iYjvTJCW8YbQgMAcjA4ADNGHoHG9FmUVmBHgA5TxHL5guSQNgJeL7CgQAJoe6bRyMDx+U7vJblBi+CgJIGQH4JG64+wOAD0rnc3kY4PsHjOrQu9LIGDCj0KAEFxoxBL5/GJZvT9hBDgBCQxBfFsBAAbT1wAAvshjaaTWbQPSQmEEGkLUZgqEvHaHdbna6ALrIQ2Om0u+AABjdTtt8AATCH/QhI6a/R6I1GE7HLUbvb73WHg+a45mA/wk2GCzmraGA/bc2WvT7S9Gg4WAymLc3K3XRA2EAA2NM1+NhgCsHfgg5LffzQ+LlrHXZ7hpbtYT7dbi6HS4XYbX0/g3fT64DI73CAPW4P8+bnu96BgWgs8F9ZHuYH1IEqgYAwvwQJe2lR3LgQJ+qDglMb4qAAxIGkFQYYkCwAgga5IgDoPuMT53i+76dl+qA/n+KiASAwGRKBeAQVBkEwdAuAIUhcYoVgaF6i+4ZvgAHNhIC4Sw/6iIYRFoCRIBkeRlFwUGiHIY+z6VPwbEcVxPF8SB4HkRRqCwdREl0VJ6GVIgcnfr+3H4UpxEqapomabRoD0YxL6sW+WGGXheAEfxgnCdB6lUfBWk2TpTGVA54byUZilAcppGqYGlm+dZIC2dJnZvjFznGXgvERWZUUWd5Yk0ZJqHSf2KWhS5AGmQJ5kiXlVmFQx0myalOFhSomWEZFQnRbF4nxYlulpKVaX/m5nWeWp4A+b1aZGkAA===
+
+Link irregular
+------------------------------------
+https://www.youtube.com/watch?v=vkkEqXMLg-U&list=PLzXvg8BMFmU8_YbrTi-CnCbQ7ZUsMxtea&index=1
+
+https://www.youtube.com/watch?v=vkkEqXMLg-U&list=PLzXvg8BMFmU_GQG7ce6RZGTp8S002Z7-E
+
+Playlist baku sudoku
+------------------------------------
+https://www.google.com/search?q=sudoku+milagroso&hl=pt-BR&prmd=isnv&source=lnms&sa=X&ved=0ahUKEwiUotr-ndH5AhWPD7kGHbDYDnoQ_AUIFCgA&biw=360&bih=584&dpr=3
+
+Sudoku milagroso
+------------------------------------
+https://www.google.com/search?q=sudoku+samurai&ei=m2T-YoynFJz01sQP242uwAY&oq=sudoku+sa&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBY6BwgAEEcQsAM6CwgAEIAEELEDEIMBOgQIABATOgoIABAeEBYQChATOggIABAeEBYQEzoICAAQHhAWEApKBAhBGABKBAhGGABQ_w5Y4Cdg_TFoBHABeACAAYgBiAGHBJIBAzAuNJgBAKABAcgBCMABAQ&sclient=gws-wiz
+
+https://www.google.com/search?q=sudoku+samurai+online+gratis&bih=657&biw=1024&hl=pt-BR&ei=DHD-Yv-FMpvk1sQP046zmA0&oq=sudoku++como+o+sa&gs_lcp=Cgdnd3Mtd2l6EAMYCTIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWOgUIIRCgAToICCEQHhAWEB06BQgAEIAEOgsIABCABBCxAxCDAToECAAQAzoGCAAQChADOgoIABCxAxCDARAKOggIABAeEBYQCjoICAAQHhAPEBZKBAhBGAFKBAhGGABQ5gZYn5EBYOHSAWgIcAB4AoABrwKIAfYfkgEIMC4yNi4xLjKYAQCgAQHAAQE&sclient=gws-wiz
+
+Sudoku samurai
+------------------------------------
+https://www.google.com/search?q=sudoku+sanduiche&ei=BmX-YvnuCNbl1sQPx5yW4Ao&ved=0ahUKEwj5iYSI5ND5AhXWspUCHUeOBawQ4dUDCA4&uact=5&oq=sudoku+sanduiche&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAE6BwgAEEcQsAM6BwgAELADEEM6BAgAEBM6CAgAEB4QFhATOggIABAeEA0QEzoKCAAQHhANEAUQEzoKCAAQHhAIEA0QE0oECEEYAEoECEYYAFCqBFjqFWDDF2gBcAF4AIABywGIAY8KkgEFMC44LjGYAQCgAQHIAQnAAQE&sclient=gws-wiz
+
+https://www.youtube.com/watch?v=IVAccYNvpFQ
+
+sudoku sanduiche
+------------------------------------
+https://www.google.com/search?q=sudoku+termometro&ei=D2X-YtizL-ub1sQP36unkAE&oq=sudoku+ter&gs_lcp=Cgdnd3Mtd2l6EAEYATIFCAAQgAQyBggAEB4QFjIICAAQHhAWEAoyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyCAgAEB4QDxAWOgQIABATOggIABAeEA0QEzoKCAAQHhANEAUQEzoKCAAQHhAIEA0QEzoFCCEQoAE6CAgAEB4QFhATOgoIABAeEBYQChATOgsIABCABBCxAxCDAToECAAQAzoFCC4QgARKBAhBGAFKBAhGGABQ_wRY6Rhgu2hoAXAAeACAAaIBiAGtDJIBBDAuMTKYAQCgAQHAAQE&sclient=gws-wiz
+
+sudoku termometro
+------------------------------------
+https://www.youtube.com/watch?v=FYWPmWybsGg
+
+sudoku killer
+-----------------------------------
+https://www.google.com/search?q=anti+rei+no+sudoku&oq=anti+rei+no+sudoku&aqs=edge..69i57.4813j0j1&sourceid=chrome&ie=UTF-8
+
+sudoku anti rei
+-----------------------------------
+https://www.google.com/search?q=anti+cavalo+no+sudoku&ei=iWj-YvjYMeWc0AaK4ZfIBA&ved=0ahUKEwi4wYO159D5AhVlDtQKHYrwBUkQ4dUDCA4&uact=5&oq=anti+cavalo+no+sudoku&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABKBAhGGABQ1xZYjENg1ERoA3ABeAKAAboHiAGRG5IBCzAuOC4xLjUtMS4ymAEAoAEByAEIwAEB&sclient=gws-wiz
+
+sudoku anti cavalo
+--------------------
+https://www.google.com/search?q=sudoku+consecutivo&source=lmns&bih=657&biw=1024&hl=pt-BR&sa=X&ved=2ahUKEwiI8de06ND5AhUsM7kGHRvaCZUQ_AUoAHoECAEQAA
+
+sudoku consecutivo
+-----------------------------------
+https://www.google.com/search?q=sudoku+rainha+vermelha&bih=657&biw=1024&hl=pt-BR&ei=n2n-YvOWIt-95OUPlPeK0Ag&oq=sudoku+rainha&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCCEQoAE6BggAEB4QFjoECAAQEzoICAAQHhAWEBM6CwgAEIAEELEDEIMBOgQIABADOgUIABCABDoOCC4QgAQQsQMQgwEQ1AI6CAguEIAEENQCOgUILhCABDoICAAQHhAWEApKBAhBGAFKBAhGGABQjwtY0doKYNLnCmgHcAB4AIABlgGIAdgSkgEEMC4xOZgBAKABAcABAQ&sclient=gws-wiz
+
+
+https://www.google.com/search?q=sudoku+xv&hl=pt-BR&source=lnms&sa=X&ved=2ahUKEwi-k8j-6dD5AhVchJUCHa0dCNcQ_AUoAHoECAEQAg&biw=1024&bih=657&dpr=1
+
+https://www.youtube.com/watch?v=t4q-ZCv6EuI&list=PLzXvg8BMFmU_GQG7ce6RZGTp8S002Z7-E&index=10
+
+sudoku xv
+------------------------------------
+https://www.google.com/search?q=sudoku+milagroso&bih=657&biw=1024&hl=pt-BR&ei=Omv-YuWeDrnb1sQP0cWjwAo&oq=sudoku+milag&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQgAQ6BwgAEEcQsAM6BggAEB4QFjoLCAAQgAQQsQMQgwE6BAgAEAM6CAguEIAEENQCOgUILhCABDoICAAQHhAWEApKBAhBGABKBAhGGABQhQVYmBtg-C5oAXABeACAAcIBiAGzB5IBAzAuN5gBAKABAcgBCMABAQ&sclient=gws-wiz
+
+sudoku milagroso
+------------------------------------
+------------------------------------
+------------------------------------
+https://www.google.com/search?q=sudoku+aic&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj2kbLQ7ND5AhUHupUCHZobDksQ_AUoAXoECAEQAw&cshid=1660841539019355&biw=1024&bih=657&dpr=1
+
+sudoku aic
+------------------------------------
+https://www.google.com/search?q=sudoku+aarp&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj58Kf_7ND5AhVJlZUCHZpdA98Q_AUoBHoECAEQBg&biw=1024&bih=657&dpr=1
+
+sudoku aarp
+-----------------------------------
+https://www.google.com/search?q=sudoku+box&hl=pt-BR&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiLt9a27dD5AhWEJrkGHZb8C2UQ_AUoAXoECAIQAw&biw=1024&bih=657&dpr=1
+
+https://www.google.com/search?q=sudoku+box&source=lmns&bih=657&biw=1024&hl=pt-BR&sa=X&ved=2ahUKEwi02OLO7dD5AhWUNbkGHYRWAK0Q_AUoAHoECAEQAA
+
+sudoku box
+-----------------------------------
+https://www.google.com/search?q=sudoku+cafe&hl=pt-BR&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjbl4uf7tD5AhUhCbkGHfHxCecQ_AUoAXoECAIQAw&biw=1024&bih=657&dpr=1
+
+sudoku cafe
+------------------------------------
+https://www.google.com/search?q=sudoku+gigante+online&hl=pt-BR&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjFqauv8ND5AhWltZUCHUX3A1MQ_AUoAXoECAEQAw&biw=1024&bih=657&dpr=1
+
+https://e-sudoku.hu/konnyu-szuper-16x16/
+
+sudoku gigante
+------------------------------------
+https://www.google.com/search?q=sudoku+gyerekeknek&bih=657&biw=1024&hl=pt-BR&ei=THL-YoCwDdeF1sQP0pmmqA0&oq=sudoku+gy&gs_lcp=Cgdnd3Mtd2l6EAMYADIECAAQEzIECAAQEzIICAAQHhAWEBMyCAgAEB4QFhATMggIABAeEBYQEzIICAAQHhAWEBMyCAgAEB4QFhATMggIABAeEBYQEzIICAAQHhAWEBMyCAgAEB4QFhATOgcIABBHELADOgQIABBDOgsIABCABBCxAxCDAToFCAAQgAQ6CggAELEDEIMBEEM6CwguEIAEELEDEIMBOgYIABAeEBY6BAguEBM6CAguEIAEENQCSgQIQRgASgQIRhgAUPoNWOBIYKlcaARwAXgAgAGUAYgB_AWSAQMwLjaYAQCgAQHIAQjAAQE&sclient=gws-wiz
+
+
+
+sudoku gyerekeknek
+--------------------
+https://www.samurai-sudoku.com/pt/
+
+https://www.sudoku-online.org/sudoku-samurai.php
+
+https://dkmgames.com/SamuraiSudoku/
+
+https://puzzlemadness.co.uk/samuraisudoku/mixed
+
+https://www.psicoactiva.com/juegos-inteligencia/sudoku-samurai/
+
+https://www.minisudoku.com/samurai
+
+https://www.sudoku-puzzles-online.com/samurai/play-a-samurai-sudoku.php
+
+https://www.sudokumania.com.ar/juegos/samurai/
+
+Samurai
+------------------------------------
+https://www.puzzlemix.com/Sudoku%20XV
+
+Xv
+------------------------------------
+Odd / even
+odd pair
+Kakuro
+Jigsaw
+Hanjie
+Consecutive
+Slitherlink
+Futoshiki
+Calcudoku
+Skyscraper
+Kropki sudoku
+Hitori
+Wraparound sudoku
+Mystery Killer Pro 
+Consecutive
+Non-consecutive
+Jigsaw Killer
+Toroidal Sudoku
+Nurikabe
+Blumen sudoku
+Sudoku triângular
+Sudoku estrela
+Hoshi sudoku
+Tridoku
+
+
+Geral
+------------------------------------
+https://sudoku.cool/jigsaw-sudoku.php
+
+https://sudoku.gratis/jigsaw-sudoku.php
+
+https://sudokuschwer.com/jigsaw-sudoku.php
+
+Killer com variações
+Jigsaw
+Mini
+Samurai diferente
+
+Com diagonal
+......
+------------------------------------
+https://www.sudoku-puzzles-online.com/irregular-sudoku/choose-a-grid.php
+
+Clássico até extreme
+
+Jigsaw variado tamanho e com letra
+
+16x16(0-9 / a-f) e com jigsaw
+
+25x25(só letra)
+------------------------------------
+https://puzzlephil.com/puzzles/kikagaku/en/
+
+Irregular
+------------------------------------
+https://www.puzzle-jigsaw-sudoku.com/
+
+Jigsaw
+------------------------------------
+https://www.dcode.fr/irregular-sudoku-solver
+
+Irregular
+------------------------------------
+https://www.conceptispuzzles.com/index.aspx?uri=puzzle/sudoku/classic
+
+Variados com clássico
+------------------------------------
+https://sudokuspoiler.com/sudoku/sudoku9
+
+
+Resolver online:
+
+Regular (6x6 até 25x25)
+
+X(6x6 até 16x16)
+
+Irregular (6x6 até 16x16)
+
+Irregular x (5x5 até 10x10)
+
+Hyper (9x9 e 16x16) e x (9x9)
+
+Extra regions(6x6 até 16x16)
+
+Par ou ímpar
+
+S doku
+------------------------------------
+https://puzzlemadness.co.uk/jigsawsudoku/medium
+
+Irregular
+------------------------------------
+https://www.puzzlemix.com/Killer%20Jigsaw%20Sudoku
+
+Sudoku,hanjie, kakuro, futoshiki, slitherlink......
+------------------------------------
+https://sudoku.today/
+
+https://sudoku-today.translate.goog/?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=pt-BR
+
+Palíndromo, Rossini, Exclude(excluir), Duodoku, Minimax 
+Ten eleven, Consecutive, Group sum(grupo sum), Search 9(procurar), Sums, Extra regions(regioes extras), No touch(sem toque), Creasing(vincar), Makodoku, Battenburg, Hybrid Sudoku ( Consecutive Pairs + Sum Frame - pares consecutivos + quadro da soma ), Daily, Quadruple, Clone, Multi diagonal, Scryscrapers, Thermo(termo), Quitients, Kropki, Odd e even, Xv,Staircase, Edge Difference, Quadruple sudoku, Eliminate, products, Parity Lines, 
+Non-Consecutive Sudoku, Differences Sudoku, Mirror Sudoku
+---------------------
+*Grupo redes:*
+
+https://www.linkedin.com/in/josenil-orozimbo-918234203
+
+Josenil LinkedIn
+
+Sobre o assunto antena vale dizer uma coisa. APs que possuem antenas aparentes não é garantia que operem melhor que os demais que possuem antenas embutidas. Em alguns casos sim, mas o que de fato determina a melhor performance é a capacidade de arranjos que o equipamento consegue fazer entre as antenas. 
+A maioria dos APs de grandes fabricantes tradicionais como Aruba, Ruckys, Extreme, Huawei, HP, e outros utilizam várias antenas internas do tipo Microstrip (ou patch), que são semalhantes a placas de circuitos. Mas tb existem equipamentos de má qualidade com antenas embutidas, assim como antenas aparentes.
+
+josenil
+------------------------------------
+https://www.linkedin.com/feed/update/urn:li:activity:6974709664785551360?utm_source=share&utm_medium=member_android
+
+https://www.eletronet.com/blog/voce-sabe-o-que-e-um-cabo-opgw-e-como-a-eletronet-transporta-dados-por-meio-dele/
+
+Tércio
+------------------------------------
+Ac 1200 intelbras
+
+https://www.intelbras.com/pt-br/roteador-wireless-smart-dual-band-action-rf-1200
+------------------------------------
+E eu aqui descobrindo um pouco da LoraWan. Interessante, muito interessante. https://americantower.com.br/pt/solu%C3%A7%C3%B5es/rede-neutra-loRaWAN.html
+
+Recomendo até o site da American Tower para entender um pouco mais de tudo: torres, IoT, fibra etc. Achei bacana o site deles.
+
+https://americantower.com.br/pt/ - Site
+
+Alias, a American Tower é um dos três provedores que entrega Internet para a Prodabel. Link de 6 Gigabits por segundo. É por este que passa nosso tráfego de Wi-Fi
+
+https://www.furukawalatam.com/pt-br/conexao-furukawa-detalhes/nokia-e-furukawa-em-parceria-para-acelerar-o-mercado-de-optical-lan-na-america-latina - Fazendo mais uma pesquisa olha mais uma BEM INTERESSANTE.
+
+https://www.nokia.com/ - é galera, bom fica de OLHOS BEM ABERTOS, tem muita coisa boa acontecendo...
+------------------------------------
+https://www.submarinecablemap.com/
+
+Mapa cabos marítimos
+----------------------------------
+https://www.instagram.com/reel/Ci0FMW0LqrN/?igshid=MDJmNzVkMjY= -
+
+Alicate 3 em 1
+------------------------------------
+https://downdetector.com.br/fora-do-ar/instagram/
+
+https://downdetector.com.br
+------------------------------------
+https://aprendacftv.com/configuracao-de-vlan-para-projetos-de-cftv-ip-com-exemplo-pratico/
+
+Vc facilita sua administração, tem melhor gerência da rede, quebra domínios de broadcast (reduz tráfego de broadcast, que eh indesejado) e ainda da um pouco de segurança
+
+Lembrando que segurança eh um conjunto de camadas. A começar por concretizar o usuário, elo mais fraco
+
+Curiosidade: trabalhei em um lugar uma vez que todas as câmeras ficavam em VLAN específica. Só que a pessoa deixou está vlan ter acesso à internet. Ou seja, separou em vlan, mas deixou uma brecha grande. Problemas: o mundo (internet) podia acessar essas câmeras, ou se eu tirasse a câmera do ponto de rede e colocasse um laptop, tava na internet. E vai saber onde mais dentro da empresa 😂😂😂
+------------------------------------
+https://axglobal.com.br/rede/nocoes-basicas-para-entender-a-tecnologia-gpon/#:~:text=Gigabit%20Passive%20Optical%20Networks%20%C3%A9,enviada%20casas%20ou%20um%20edif%C3%ADcio.
+
+https://www.cianet.com.br/blog/infraestrutura-e-tecnologia/saiba-mais-sobre-redes-opticas-passivas-xpon-gepon-x-gpon-2/
+
+https://axglobal.com.br/equipamentos/o-que-e-splitter-optico-e-como-funciona/
+
+Spliter, ont,onu
+------------------------------------
+https://www.google.com.br/search?q=montagem+de+racks+rede&client=ms-opera-mobile&channel=new&espv=1&ei=7a4tY4-2OZ3w1sQPm_WpiAk&oq=montagem+de+rack&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYADICCCkyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAELADEENKBAhBGABQAFgAYNkLaAFwAXgAgAEAiAEAkgEAmAEAwAEB&sclient=mobile-gws-wiz-serp
+
+Rack
+------------------------------------
+ubiqui
+
+PRODUTOS COM TECNOLOGIA TDMA 
+• Rádios 5GHz e 2GHz;
+• Rádios 1x1 e 2x2;
+• Rádios de Curto alcance;
+• Estações de Médio alcance;
+• Estações de Longo alcance
+
+A RADIOFREQUÊNCIA
+• O que é Radio Frequência
+• Diferenças de Wi-Fi e Radioenlaces
+• Características de Propagação
+• Entendendo a unidade de medida “dB”
+• dBm e dBi
+• Sensibilidade dos Rádios
+• Seletividade dos Rádios
+• Relação de Velocidade e Frequência
+• Teoria da Informação
+
+CANAIS DE RADIOENLACES
+• Largura de Banda
+• Canais de 3, 5, 10, 20, 40, 80 e 160 MHz
+• Países;
+• Faixas;
+
+CONCEITOS DE RÁDIO FREQÜÊNCIA
+• Sinal;
+• Atenuação;
+• Reflexão;
+• Refração;
+• Difração;
+• Multipercurso.
+
+INTERFERÊNCIAS E RUÍDOS 
+• Relações e Sinais
+• Relação Sinal Ruído (SNR)
+• Margens de Segurança
+
+ELEMENTOS PASSIVOS DE UM RADIOENLACE 
+• Antenas
+• Pigtail e conectores
+• Tipos de Antenas
+• Polarização
+• Ganho
+• VSWR
+• Eficiência
+• Gráfico Polar
+
+MIMO
+• Fundamentos
+• MIMO 1x1
+• MIMO 2x2
+• Padrões MCS
+
+MODULAÇÃO E CODIFICAÇÃO 
+• Modulação BPSK e QAM
+• MCS e os Códigos
+• Amostras e Relação com sinais
+• Sinal por modulação
+• Velocidades por modulação
+• Sinal mínimo por modulação digital
+• Taxa de Dados (Nominal e Real)
+
+TDMA GIGA WIRELESS 
+• Rádios 24 GHz
+• Velocidades HD e FD (1 e 2 Gbps)
+• Aplicações de Circuitos
+• Rádio Licenciado x Não Licenciado
+
+FERRAMENTAS AUXILIARES 
+• Analisador de espectro
+• Teste de Velocidade
+• Alinhamento de antenas
+• Descoberta de equipamentos na rede
+• Site Survey
+• Teste ICMP Ping por pacotes
+• Rotas de acesso (Trace)
+
+CONFIGURAÇÕES E MODOS DE OPERAÇÃO 
+• Peer (Ad-hoc);
+• Infra-estrutura (Infrastructure);
+• Access Point
+• Backhaul - PTP Ponto a Ponto
+• PTMP - Ponto a Multi-Ponto
+• WDS - Sistema de Distribuição Wireless
+• Scan List, Shifting, Burst, LEDs, Signal Strentgh, Tx e Rx
+
+PLANEJAMENTO 
+• FSPL (Perdas consideradas)
+• Posicionamento dos equipamentos;
+• Distância e potências de recepção (Sensibilidade);
+
+CÁLCULO E DIMENSIONAMENTO DE ENLACES 
+• Cálculo do raio da elipse geométrica
+• Cálculo de Potência e Ganho
+• Cálculo de EiRP de um enlace
+• Cálculo de Recepção de um Rádio-Enlace
+• Desvanecimento
+------------------------------------
+Vlan
+estender
+
+Estendendo VLANs
+Além de ser possível um melhor aproveitamento das portas de switches físicos, um dos principais benefícios de estender uma VLAN por diferentes switches é desvincular a topologia lógica de uma rede local de sua topologia física. Uma simples VLAN pode se estender por múltiplas salas, pisos, ou mesmo blocos.
+
+Observe como as VLANs 10 e 30 foram estendidas para um segundo switch. Com isso, os computadores *A e C podem residir na mesma VLAN* , apesar de estarem conectados a a switches físicos diferentes, e possivelmente situados em locais diferentes.
+
+VLAN trunk
+
+múltiplos switches, as portas desses switches usadas na conexão devem pertencer a essa VLAN. 
+
+Uma porta ACCESS é exatamente isso: ela pertence a uma única VLAN
+
+Método implícito: ou marcação implícita (implicit tagging) caracteriza os 
+quadros que não são rotulados. Os comutadores identificam a VLAN a que este 
+quadro pertence através de informações contidas em seus cabeçalhos como, por 
+exemplo, a porta por onde o quadro chegou ou cruzando o endereço MAC com 
+a tabela de associação das VLANs, para assim encaminhar os pacotes para o 
+destino correto. Neste método os dispositivos da rede não necessariamente 
+precisam saber que existe VLANs, pois o quadro permanece inalterado;
+ Método explícito: ou marcação explícita (explicit tagging) ocorre quando um 
+dispositivo de rede marca (tagg) o quadro com um identificador de VLAN
+acusando a qual rede virtual este quadro pertence. Neste método os 
+dispositivos precisam saber da existência das VLANs, pois são inseridas 
+informações referentes a esta identificação no cabeçalho do quadro, alterando 
+seu tamanho, e caso um dispositivo que não suporte VLAN receba o quadro, 
+este será descartado. Os dispositivos na rede devem também possuir uma base 
+de dados, igual para todos, com informações de identificação de cada VLAN e 
+onde encontrar estas informações nos quadros. Os dispositivos adicionam, ou 
+não, a tagg de VLAN dependendo se o dispositivo de destino possui suporte, 
+ou não, ao protocolo de VLAN (IEEE 802.1Q).
+
+-BASE DE DADOS DE FILTRAGEM (FILTERING DATABASE)
+-ENTRADAS ESTÁTICAS:Entrada Estáticas de Filtragem e de registro
+-ENTRADAS DINÂMICAS:Entradas de Registro de Grupo e Entradas Dinâmicas de Registro
+
+O protocolo GVRP também é utilizado na comunicação entre pontes com suporte ao padrão 
+IEEE 802.1Q(vlan unaware)
+
+
+Regras de Entrada (Ingress Rules), utilizadas para determinar a quais VLANs pertencem os quadros recebidos.
+
+Regras de Encaminhamento entre Portas, decidem se o quadro deve ser filtrado ou encaminhado.
+
+Regras de Saída (Egress Rules), determinam se o quadro deve ser enviado com ou sem rótulo.
+------------------------------------
+rádio enlace
+
+Tipos de rádio enlace
+Existem dois tipos de rádio enlace.
+
+Rádio enlace digital: esse tipo permite alcançar taxas de 2 Mbits a 400 Mbits em enlaces ponto a ponto.
+
+ Rádio Spread Spectrum: já esse tipo utiliza da tecnologia Spread Spectrum que possibilita um melhor uso do espectro de frequências, ou seja, operando em taxas que não necessitam de licença. Sendo assim, opera tanto na configuração ponto a ponto quanto na ponto multiponto, suas taxas variam de 64 kbits a 150Mbtis. 
+
+Conexão Ponto a ponto e ponto multiponto
+
+Instalação do rádio enlace ponto a ponto
+A instalação do rádio enlace pode ser de três tipos:
+
+Em primeiro lugar, Indoor: quando os equipamentos ficam no interior do imóvel e a antena no lado externo.
+
+Posteriormente, Outdoor: quando os equipamentos ficam acondicionados em um gabinete externo e ligados aos equipamentos auxiliares internos via cabos de banda base.
+
+E por fim, Split: Quando os equipamentos são divididos em unidades internas (IDU) composta pelo MODEM, banda base, e em alguns casos, multiplex. E as unidades externas (ODU) composta pela radiofrequência. Isto é, sendo interligadas por um multicabo que opera na frequência intermediária.
+
+Entendendo um pouco mais sobre a Zona de Fresnel e Visada do Enlace
+As ondas de rádio se propagam em sua maioria em Zona de Fresnel.
+
+A propagação do sinal sem fio é feita em linha reta entre os equipamentos (antenas). Para que você tenha uma boa visada do enlace, ou seja uma distribuição do sinal sem grandes interferências ou oscilações, é necessário que 60% da Zona de Fresnel esteja desobstruída.
+
+O cálculo da Zona de Fresnel é obtido pela fórmula do raio ideal.
+
+- Rádio PTP Dumont
+- Rádio PTP Smart HP Turbo
+
+
+mento que são importantes para a escolha adequada do modelo para sistemas de radioenlaces.
+
+Alguns deles são:
+
+Diretividade: capacidade de concentrar a energia numa determinada direção. Antenas para enlaces microondas devem ser altamentes diretivas.
+Ganho: densidade de fluxo de potência gerada por uma antena em relação a densidade de fluxo de potência gerada por um radiador isotrópico (que irradia igualmente em todas as direções) com a mesma potência de entrada.
+Polarização: definida em função da orientação do vetor campo elétrico na direção de máxima radiação.
+Relação frente-costa: é a relação de ganho entre o lóbulo principal onde se tem a maior concentração de energia eletromagnética, e o lóbulo de costas (oposto ao lóbulo principal).
+Ângulos de meia potência: são definidos pelos pontos no diagrama onde a potência radiada equivale à metade da radiada na direção principal. Estes ângulos definem a abertura da antena no plano horizontal e no plano vertical.
+------------------------------------
+ptp
+
+ptmp
+------------------------------------
+CALCULAR SINAL ENLACE MIKROTIK 
+------------------------------------
+Alinhamento de enlaces Ponto a Ponto
+------------------------------------
+Como projetar seu enlace PONTO a PONTO (PTP) no rádio
+------------------------------------
+alinhar o enlace com multimetro
+------------------------------------
+espectro(difração, refração)...
+
+Frequências podem ser transportada a partir de ondas eletromagnéticas. Os diferentes tipos de frequências, separados de acordo com o comprimento de onda, são agrupados em zonas chamadas espectros.
+
+Radiofrequência é a faixa do espectro eletromagnético de 8,3 kHz a 3000 GHz, onde é possível a radiocomunicação. O espectro de radiofrequências é um recurso limitado, constituindo-se em bem público e, conforme prevê a Lei nº 9.472, de 16 de julho de 1997, é administrado pela Anatel.
+
+A  faixa de 440 MHz a 449,75 MHz está destinada a todos os serviços de telecomunicações compatíveis com os serviços fixo, móvel exceto móvel aeronáutico e radiolocalização.
+
+UHF	300 MHz	3 GHz
+SHF	3 GHz	30 GHz
+EHF	30 GHz	300 GHz
+Ondas Milimétricas	acima de	300 GHz
+http://willians.pro.br/frequencia/faixa_frequencia.htm
+------------------------------------
+faixas
+------------------------------------
+Modulação em amplitude(am) 
+Modulação em fase(pm) 
+Modulação em frequência(FM) 
+Modulação em banda lateral dupla(DSB) Modulação em banda lateral única(SSB) Modulação de banda lateral vestigial(VSB, ou VSB-AM) 
+Modulação de amplitude em quadratura(QAM) Modulação por divisão ortogonal de frequência(OFDM)
+
+Quando a OFDM é utilizada em conjunção com técnicas de codificação de canal, se denomina Modulação por divisão ortogonal de frequência codificada (COFDM)
+
+Também se empregam técnicas de modulação por pulsos, entre elas: 
+
+Modulação por pulso codificado (PCM) Modulação por largura de pulso (PWM) Modulação por amplitude de pulso (PAM) Modulação por posição de pulso (PPM) 
+
+Quando o sinal modulador é um sinal digital, com um conjunto de símbolos digitais
+(p.ex, 0 ou 1), transmitidos (chaveados) em determinada velocidade de codificação (bauds), designa-se essas modulações, com uma transição abrupta de símbolos, por: 
+Modulação por chaveamento de amplitude (ASK) Modulação por chaveamento de frequência (FSK) 
+Modulação por chaveamento de fase (PSK) Modulação por chaveamento de fase e amplitude (APSK ou APK)	
+
+Transmissão digital
+Transmissão binária e multi-nível
+
+Transmissão em banda base
+
+OOK – On-Off-Keying
+
+PAM – Pulse Amplitude Modulation
+PPM – Pulse Position Modulation
+
+------------------------------------
+controladora wi-fi
+------------------------------------
+otdr
+------------------------------------
+sfp e qsfp
+------------------------------------
+Dio
+------------------------------------
+Dgo
+------------------------------------
+Cto
+------------------------------------
+Multiplexação de sinais A multiplexação é a transmissão de vários sinais usando uma única linha de comunicação ou canal. Em sistemas de transmissão por fibra óptica são usados basicamente 3 tipos de sistemas de multiplexação: 
+
+FDM – Frequency Division Multiplexing – Multiplexação por Divisão de Frequências;
+
+TDM – Time Division Multiplexing – Multiplexação por Divisão do Tempo; 
+
+WDM – Wavelength Division Multiplexing – Multiplexação por Divisão de comprimento de onda de luz. As multiplexações TDM e a WDM são as mais utilizadas pelos provedores de serviços em fibra óptica. Além disso, é necessário definirmos os seguintes termos:
+
+fttx
+------------------------------------
+hardening
+------------------------------------
+poe
+------------------------------------
+comandos cli ou não
+------------------------------------
+Pon(gpon,onu,ont)
+------------------------------------
+Broadcast storm (tempestade de broadcast): quadros em broadcast seriam retransmitidos indefinidamente na rede, consumindo sua capacidade.
+
+Múltiplos quadros repetidos recebidos em cada host: como efeito adicional à tempestade de broadcast, os equipamentos finais da rede (computadores, servidores, ...) receberiam uma sequência incessante de quadros repetidos. 
+
+Instabilidade na tabela MAC nos switches: Essa tabela é formada dinamicamente, segundo as regras de aprendizado do *switch (bridge learning).Interligação de LANs (padrão IEEE802.1D)* Lembre que, quando um quadro é recebido pelo switch, seu endereço MAC de origem e a porta por onde foi recebido são armazenados nessa tabela.
+------------------------------------
+Pessoal boa tarde!
+
+Acabei de colocar no site EAD o pdf do projeto com os requisitos. Eu fiz as correções, enumerei os POPs da operadora.
+Optei por mudar os nomes fictícios pq percebi que existiam na realidade, mas isso não muda em nada o objetivo.
+
+Quanto a tarefa ainda não tive tempo para concluí-la. Até amanhã na parte da manhã deve postar no EAD.
+
+Lembrado que o projeto terá 4 etapas:
+
+1) dimensionamento e dados básicos da rede externa passiva (backbone);
+2) escolha dos roteadores do Core da Rede (Núcleo) e os roteadores para colocar no cliente (CPE);
+3) dimensionamento dos switches das redes locais;
+4) projeto lógico da rede e configuração.
+---------------------
+*Grupo 2:* 
+
+Unicast
+Broadcast
+Multcast
+Anycast
+------------------------------------
+Osi:
+1) física= modem,802.11, wi-fi, eia,RS, Bluetooth, USB,10 base t,dsl... Equipamentos físicos e elétricos ativos e passivos.
+
+2)enlace=ethernet,ieee,token ring,switch l2,arp,rarp,Mac,llc... Regras da camada rede e divide em frames.
+
+3) rede=ipv4,ipv6,ip, NAT,cgnat.... Roteamento e transferência.
+
+4) transporte= TCP,icmp,uso,ria... Fazer o envio do roteamento.
+
+5) sessão=Netbios... Verificação do envio.
+
+6)apresentação=tls,ssl,xdr... Tradução de pacotes.
+
+7) aplicação=HTTPS,http,smtp,ftp,ssh,Telnet,rdp,snmp,pop3... Interação com aplicativos e programas.
+
+TCP IP
+
+Física
+Rede
+Inter-rede
+Transporte
+Aplicação
+------------------------------------
+A=
+Branco/Verde
+Verde
+Branco/laranja
+Azul
+Branco/azul
+Laranja
+Branco/marrom
+Marrom
+
+B=
+branco/laranja
+Laranja
+Branco/Verde
+Azul
+Branco/azul
+Verde
+Branco/marrom
+Marrom
+------------------------------------
+Sinal assinuidal
+------------------------------------
+Lambda
+------------------------------------
+Asinmult ou elevação tilai
+------------------------------------
+Elipsóide de Fresnel
+------------------------------------
+Transceiver
+------------------------------------
+Conversor de mídia
+------------------------------------
+Conector apc e upc, apc melhor, Ângulo
+------------------------------------
+Olt,ont,onu
+------------------------------------
+Pop-ponto de presença
+
+Backbond - caminho dorsal
+
+Última minha
+------------------------------------
+Tabela Cam,arp,ascii
+------------------------------------
+Nat - tradutor de pacote, converte de privado para público, e ou.
+
+Cgnat
+
+Tracert rastrear a rota (Gateway)
+
+arp -a
+------------------------------------
+Ex: IP 192.168.0.1/24
+
+192.168.1.0
+192.168.2.0
+
+Para binario para achar incremento, último bit 1
+
+256- máscara
+
+Ex:
+255.255.255.224/27
+
+256-224=32
+
+Ex: 5 redes
+
+11111000 - rede
+11100000 - host
+/24= 29
+/24=27
+
+Diminuir endereços:
+/30
+
+Mais usado
+
+1° intervalo rede
+Último broadcast
+
+Engenharia reversa:
+Pegar a máscara achar o range:
+
+Ex:
+255.255.255.240
+
+172.34.55.0   - 15
+                   .16 - 31
+                   .32 - 47
+                   .48
+------------------------------------
+single mode sm /mm
+------------------------------------
+Jumper dio
+------------------------------------
+Isso é chamado de GRUA, Utilizadas em grandes obras civis.
+------------------------------------
+Mux - demux
+Oadm(grupo de dwdm- liga cidades)
+
+Repetidores (booster)longas distâncias- ex:100km
+
+Espectro de luz x eletromagnético
+NN(nanômetro)
+------------------------------------
+Netacademy(cadastro)
+
+https://id.cisco.com/
+------------------------------------
+Trasnciever:Gbic,sfp+,xfp,qsfp+,qsfp28
+------------------------------------
+jumbo frame
+Payload
+------------------------------------
+Método de switching- comutação de frame
+
+Store and forward
+Cut-through (transpassar)
+Fragment-free (sem fragmento)
+
+CRC checagem de bits
+------------------------------------
+Banda base
+------------------------------------
+todo projeto performance mais baixa
+
+tx e rx
+1 menos outro de atenuação
+------------------------------------                                                                                      classe do trasciever 
+
+ classe 1 - não emite radiação nos níveis de perigo
+
+ classe im - pode apresentar perigo com instrumentos ópticos
+
+ classe II - laser de baixa potencia
+
+ classe iim - classe II com mais perigo
+
+ classe IIIr - com potencia intermediaria(1 a 5 mw), risco baixo mas pode ser danoso
+
+ classe IIIb - potencia moderada 0,5mw, olhos e pele
+
+ classe Iv - alta potencia 500 mw, limite de reflexão difusa, o mais perigoso
+ 
+
+ Classe B+ ou C+? Módulos Ópticos SFP em FTTH
+
+ Módulos tranceptores SFP (Small Form-factor Pluggable)
+A saber, um tranceiver, em português tranceptor é um dispositivo opto eletrônico que combina um transmissor e um receptor ópticos. Assim, utiliza componentes em um circuito comum para ambas às funções num só equipamento (TX e RX).
+
+Em síntese, para sistemas ópticos em redes passivas (PON) são definidas três classes, segundo a sua perda no percurso óptico (Optical Path Loss). São elas as classes A, B e C. Podendo existir subdivisões B+, BC+ ou C+.
+
+As classes de módulos são justamente definidas em função dos seus níveis de transmissão e sensibilidade. Para equipamentos tipo EPON as recomendações foram determinadas pelo IEEE. As classes para equipamentos foram definidas pela recomendação ITU-T G.984-2.
+
+https://www.itu.int/rec/T-REC-G.984.2
+
+Quando um fabricante disponibiliza uma determinada OLT, seja ela para uso em classe B+ ou classe C+, assim isso dependerá dos módulos ópticos escolhidos para uso nas portas. Assim não existem diferenças internas quanto a processamento, por exemplo. Em princípio a compatibilidade da OLT nada tem a ver com os módulos presentes às portas. Sem dúvida, pode-se comprar uma OLT com módulos B+ e substituí-los por C+, ou vice-versa, em qualquer momento. Então, as alterações ocorrerão por conta da potência e da sensibilidade determinando as questões de splittagem e de distância.
+
+Orçamento de potência
+
+O orçamento de potência corresponde a diferença entre a potência do sinal emitido pelo transmissor (PTX) e a sensibilidade do receptor (SRX). Matematicamente é o valor de potência de transmissão menos a sensibilidade de recepção (OP = PTX – SRX). Em outras palavras é a quantidade de potência em que é possível que se “perca” em uma rede óptica ainda garantindo que o sistema continuará funcionando livre de erros. Tanto no sentido OLT-ONU (downstream) como no sentido ONU-OLT (upstream).
+
+Lembrando que se se a potência de emissão for maior e  sensibilidade ainda maior, como o caso dos módulos classe C+ teremos maior orçamento de potência disponível. Desse modo ainda deve-se calcular o orçamento para o downstream e para o upstream. Considerando o pior caso (menor potência).
+
+OLT e ONU módulo de classe B+:
+
+Para downstream
+
+OP (downstream) = PTX olt - SRX onu 
+OP (downstream) = 1,5-(-27)
+OP (downstream) = 1,5+ 27
+OP (downstream) = 28,5 dB
+
+Para upstream
+
+OP (upstream) = PTX onu - SRX olt
+OP (upstream) = 0,5-(-28)
+OP (upstream) = 0,5+28
+OP (upstream) = 28,5 dB
+
+OLT e ONU módulo de classe C+
+
+Para downstream
+
+OP (downstream) = PTX olt - SRX onu 
+OP (downstream) = 3-(30)
+OP (downstream) = 3 +30
+OP (downstream) = 33 dB
+
+Para upstream
+
+OP (upstream) = PTX onu - SRX olt
+OP (upstream) = 0,5-(-32)
+OP (upstream) = 0,5+32
+OP (upstream) = 32,5 dB
+
+OLT módulo de classe C+ e ONU módulo classe B+:
+
+Para downstream
+
+OP (downstream) = PTX olt - SRX onu
+OP (downstream) = 3(-27)
+OP (downstream) = 3 + 27
+OP (downstream) = 30 dB
+
+Para upstream
+
+OP (upstream) = PTX onu - SRX olt
+OP (upstream) = 0,5-(-32)
+OP (upstream) = 0,5+32
+OP (upstream) =32,5 dB
+
+OLT módulo de classe B+ e ONU módulo classe C+:
+
+Para downstream
+
+OP (downstream) = PTX olt - SRX onu
+OP (downstream) = 1,5-(-30)
+OP (downstream) = 1,5+ 30 
+OP (downstream) = 31,5 dB
+
+Para upstream
+
+OP (upstream) = PTX onu – SRX olt
+OP (upstream) = 0.5-(-28)
+OP (upstream) = 0,5 + 28
+OP (upstream) = 28.5 dB
+
+Conclusão: Classe B+ ou C+?
+Realizando uma análise de portas de OLT classe C+, podemos verificar que temos um orçamento de potência de 30dB em downstream e 32,5dB em upstrem com uma ONU classe B+; ou então 33dB de downstream e 32,5dB de uptream com uma ONU classe C+.
+
+Portanto, caso use OLTs com módulos de classe B+ para o orçamento de potência, não fará diferença o uso de ONUs de classe B+ ou classe C+. Assim, comprar ONUs de classe C+ apenas será desperdício financeiro.
+
+Vale salientar ainda que deve ser observado as diferentes atenuações para upstrem em relação ao downstream devido aos diferentes comprimentos de onda. Assim, deste modo devemos avaliar agora se o preço justifica os dBs a mais, para qual necessidade e justificativa.
+--------------------
+*Grupo 3*
+
+https://www.youtube.com/results?search_query=montagem+de+dio
+
+https://www.youtube.com/watch?v=AXzwMMgat_c
+
+https://www.youtube.com/watch?v=MouIPiRyNFw
+
+https://www.youtube.com/watch?v=ze4o9PT-5os
+
+https://www.youtube.com/watch?v=FcvUe3iBD9A
+
+dio
+------------------------------------
+https://www.youtube.com/results?search_query=montagem+de+cto
+
+https://www.youtube.com/watch?v=vM6ky_p6tOU
+
+cto
+------------------------------------
+https://www.youtube.com/results?search_query=montagem+de+rack+redes
+
+hack
+------------------------------------
+https://www.youtube.com/results?search_query=packet+tracer
+
+packet tracer
+------------------------------------
+http://plp.com.br/
+
+Empresa telecon
+------------------------------------                                                            https://skillsforall.com/resources/lab-downloads?userLang=pt-BR
+----------------------
+*Grupo 4*
+
+O que é monitoramento de rede?
+Monitoramento de rede é um conceito que diz respeito a observar a segurança e qualidade de sua rede, monitorando suas aplicações e seus serviços. 
+
+Essa rede é composta por servidores ou dispositivos de rede. Por exemplo, roteadores, impressoras e computadores. 
+
+Por envolver tantos dispositivos, o monitoramento de rede hoje é de suma importância para a saúde e qualidade dos serviços de sua empresa no geral.
+
+Com a tecnologia avançando e se tornando cada vez mais complexa, a melhoria do desempenho das redes, dos servidores e das aplicações é cada vez mais necessária para ambientes de TI.
+
+
+A principal função do monitoramento de rede é fazer o acompanhamento de um serviço ou de uma aplicação dentro da empresa a fim de alertar caso algo não esteja dentro dos parâmetros. 
+
+Esta medida faz com que a empresa fique de acordo com as consideradas boas práticas da ITIL (Information Technology Infrastructure Library).
+
+https://netsupport.com.br/certificacao-itil/
+
+https://www.google.com.br/m?q=itil+x+monitoramento+de+rede&client=ms-opera-mobile&channel=new&espv=1
+
+Além dos alertas, a prática do monitoramento de rede propõe uma facilidade em centralizar os dados coletados, transformando estes em gráficos simples e objetivos para que o administrador responsável pelo sistema ou rede possa acompanhar o desempenho e os resultados da sua aplicação.
+
+A importância do monitoramento de rede, algumas das principais vantagens:
+
+Facilita correções: seja mais rápida. 
+
+Identifica oportunidades: com um olhar mais crítico, podem representar oportunidades de inovação, para definir ações estratégicas de melhoria.
+
+Mantém a performance do negócio: O monitoramento de rede pode também apontar os níveis de qualidade na utilização de recursos que influenciam na performance dos serviços. Ou seja, os recursos que fazem com que sua empresa entregue o que promete com qualidade e em tempo hábil. 
+
+Permite a coleta de dados Portanto, coletar dados sobre seu negócio e usá-los para projetar o futuro da empresa é uma estratégia funcional no aceite de investimentos e principalmente dará visibilidade quanto ao planejamento de capacidade do setor de TI.
+fornece informações que os administradores precisam para determinar em tempo real se a rede está funcionando de maneira ideal. Com ferramentas como software de monitoramento de rede, os administradores podem identificar deficiências de forma proativa
+
+
+As 5 melhores ferramentas de monitoramento de rede
+
+1)Zabbix:medir a disponibilidade e o desempenho de componentes de infraestrutura, de aplicações e gerar indicadores estratégicos para o negócio. 
+
+2)Cacti:software administrativo de rede que tem como característica a flexibilidade, atuando de modo a se adaptar facilmente a variadas necessidades.Ele atua no monitoramento do estado de elementos de rede e programas, como também da largura de banda utilizada e do uso de CPU. 
+
+3)Nagios:monitoramento de rede e de código aberto, ou seja, o dono dos direitos autorais fornece permissão para estudar, modificar e distribuir o software de forma gratuita para qualquer pessoa e para qualquer finalidade.monitorar tanto hosts quanto serviços, fazendo um alerta quando ocorrem problemas e também quando os problemas são resolvidos.
+
+4)PRTG Network Monitor:grandes organizações e trabalha 24 horas por dia em um computador da rede para registrar seus parâmetros de uso, armazenando tudo para que você acompanhe os processos selecionados para serem monitorados. 
+
+Ele também permite criar relatórios, fazer gráficos e tabelas com as informações selecionadas e programar a criação automática dos relatórios, que podem ser exportados em diversas opções de formatos.Apesar de pago, o investimento é justificado, pois, além de muito flexível para ser usado em toda a área de TI, como em roteadores, servidores, switches, ele também roda nos principais sistemas: iOS, Windows Phone, Android e BlackBerry.
+
+5)Munin:identificar tendências atuais e pesquisa.Os administradores de rede poderão anotar problemas de desempenho em suas redes, aplicativos e dispositivos.
+
+O Munin trabalha através de uma interface web, organiza dados e utiliza uma grande variedade de plugins, além de ter um sistema de alerta bem abrangente e detalhado. 
+
+6)Cisco Discovery Protocol:é um protocolo proprietário da camada de ligação de dados desenvolvido pela Cisco Systems que tem como principal função a descoberta de equipamentos na rede
+---------------------
+*Grupo 5*
+
+11) checkmk
+
+12)cloudstats
+
+13)spiceworks
+
+14)splunk Enterprise
+
+https://www.capterra.com.br/blog/1583/monitoramento-de-rede
+
+15) monitor de desempenho da rede solarwinds
+
+16)managemanngin e opmanager
+
+17)whats up Gold 2017
+
+18)incinga
+
+19)datadog
+
+20)connectwise
+
+21)logic monitor
+
+22)op5 monitor
+
+https://comoaprenderwindows.com.br/utilitarios/10-melhores-ferramentas-de-monitoramento-de-rede/
+
+
+23)Traceroute NG
+24)ipMonitor Free Edition
+25)Flow Tool Bundle
+26)Solar-PuTTY
+27)Event Log Forwarder for Windows
+28)Admin Bundle for Active Directory
+29)Access Rights Auditor
+30)Permissions Analyzer for Active Directory
+31)DBA xPress
+32)Web Help Desk Free Edition
+
+https://www.solarwinds.com/pt/free-tools
+
+
+33)Prometheus
+34)Grafana
+35)Apache SkyWalking APM
+36)Elastic APM
+37)Snyk
+38)Sentry
+39)ELK Stack
+40)Graylog
+41)Istio
+42)Jaeger
+
+https://4linux.com.br/software-free-open-source-para-monitoramento-ti/
+
+
+https://www.internationalit.com/amp/10-raz%C3%B5es-pelas-quais-o-software-de-monitoramento-de-rede-%C3%A9-obrigat%C3%B3rio?gclid=EAIaIQobChMI-9Lf37-4-gIVyxbUAR3ixg5cEAMYASAAEgLngvD_BwE
+
+
+
+https://www.google.com.br/search?q=software+para+monitoramento+de+rede&client=ms-opera-mobile&channel=new&espv=1&biw=360&bih=439&ei=7MA0Y_XvG6vI1sQPyNC_-AY&oq=software+para+monitoramento+de+rede&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsANKBAhBGABQAFgAYPISaABwAHgAgAHQAogB0AKSAQMzLTGYAQDIAQjAAQE&sclient=mobile-gws-wiz-serp#ip=1
+
+https://terminalroot.com.br/2017/02/100-melhores-ferramentas-de-seguranca-de-codigo-aberto.html
+
++100 para linux
+
+https://m.youtube.com/results?sp=mAEA&search_query=software+para+monitoramento+de+rede
+
+
+ https://www.google.com.br/m?q=cisco+Discovery+protocol&client=ms-opera-mobile&channel=new&espv=1
+
+https://www.cisco.com/c/pt_br/solutions/automation/what-is-network-monitoring.html#~protocolos-de-monitoramento-de-rede
+
+O que é análise de endpoint?
+
+O que é provisionamento de rede?
+
+O que é arquitetura de rede?
+
+O que é controlador de WLAN?
+
+O que é acesso definido por software?
+
+O que é a SD-WAN?
+
+Primeiro passo: estabeleça métricas
+
+Segundo passo: escolha um bom software
+
+Terceiro passo: empregue gráficos de uso
+
+Quais os principais benefícios do monitoramento?
+
+Agilidade nas correções e maior produtividade
+
+Otimização do desempenho e da disponibilidade da rede
+
+Custo-benefício
+
+https://blog.tecjump.com.br/monitoramento-de-rede/
+
+Monitoramento técnico;
+Monitoramento funcional;
+Monitoramento de processos de negócios.
+---------------------
+*Grupo 6*
+
+7)wireshark
+144)https://ethereal.softonic.com.br/
+
+Ethereal0.99.0
+
+145)nmap
+146)aircrack-ng
+147)networkminer
+148)commview
+149)IP sniffer
+150)Pitty
+151)Smartsniff
+152)look@lan network monitor
+153) network speed test
+154)wireless network watcher
+155)3d tracerout
+156)Netspot
+......
+https://wireshark.softonic.com.br/windows/alternativas
+
+https://alternativapara.com.br/s/wireshark
++55 alternativas
+
+https://www.google.com.br/m?q=programas+como+wireshark&client=ms-opera-mobile&channel=new&espv=1#ip=1
+
+Tipos de softwares de monitoramento
+Existem  diferentes tipos de software de monitoramento de servidores. Eles variam em função do que eles monitoram exatamente. Ao compreendê-los, se torna possível saber o que de fato procurar.
+
+Tempo de atividade / monitoramento de disponibilidade
+
+Monitoramento de desempenho do site
+
+Monitoramento de recursos
+
+Monitoramento de erros
+
+Monitoramento de log
+
+Monitoramento de banco de dados
+
+Monitoramento de segurança ou malware
+
+Customização de soluções de monitoramento
+
+
+
+8)Tipos de tecnologia M&A
+
+Gerenciando indicadores
+
+Ferramentas de pesquisa
+
+Análise e visualização
+
+9)Gerenciamento de nível de atividade ou projeto
+
+Gerenciamento de projetos
+
+Gestão de caso
+
+Gestão de instalações
+
+10)Gerenciamento de programas
+
+https://www.infonova.com.br/artigo/tipos-de-monitoramento/
+
+https://sistemairis.com.br/o-que-e-e-como-funciona-um-software-de-monitoramento-de-alarme/
+
+https://blog.intelbras.com.br/cftv-saiba-tudo-sobre-esse-sistema/
+---------------------
+*Grupo 7*
+
+https://www.tellycom.com.br/sfp-1-25gbps/1000base-lx-lh-sfp-1310nm-10km-lc-smf-ddm-duplex-transceptor-optico-miljet-1031101-mj-sfpge-lx-10
+-----------------------------------
+Poe leva energia, padrão ethernet por um cabo
+
+PD(powered device)
+Pse(Power sourcing equipament),endspan, endpoint
+
+Equipamento sem poe nativo midspan
+
+Tipos:poe, poe+,4ppoe, ultra poe,upoe
+
+Amplificador de poe
+
+Power over ethernet (poe)
+
+Telefone VoIP,acess point,câmeras ip, mais comuns
+
+Padrões:at,af,ax, extreme, controladora wifi
+------------------------------------
+Mdx(cabo direto / crossover)
+------------------------------------
+Carregado/descarregado
+------------------------------------
+Soho(pequeno escritório/casa)
+------------------------------------
+MTBF=projeto tempo de falha
+------------------------------------
+SC/upc=azul
+SC/apc=verde
+------------------------------------
+Sfp=1gbps
+Sfp+=10gbps
+
+Monomodo
+------------------------------------
+Chassi ou bastidor (antigo e usado ainda)
+------------------------------------
+Dip switch
+
+https://www.linkedin.com/posts/engetron-energia-garantida_solu%C3%A7%C3%B5es-engetron-iot-alta-disponibilidade-activity-6981328496115499008-Aic6?utm_source=share&utm_medium=member_android
+------------------------------------
+Switch empilhado, modular, com ou sem poe, gerenciavel ou não,
+
+Interface de uplink
+
+Domínio de colisão x dominio de broadcast
+
+Modelo de camadas
+
+3 e 2(colapsado) camadas(tier)
+
+Protocolo spf,rip...
+
+Capacidade dos switchs
+
+Largura de barramento
+
+Backplane, switch fabric ou switch Bandwidth
+
+Largura de barramento nas interfaces (switch bus)
+
+
+Non-blocking ou wire speed, usar  todas as portas Full-duplex
+
+Barramento igual ou superior a soma da largura da Banda de todas as interfaces
+Qp*v*2
+
+
+Forwarding rate ou capacidade de encaminhamento
+
+conversão:Mpps para bps- Mpps x tpx8=throughput
+
+Melhores possuem memórias chamado de buffers de interface
+
+Mpps(milhões de pacotes por segundo)
+
+Switch de distribuição (compacto, modular,juniper,acesso,huawey...)
+
+
+Portas combo (ótica ou elétrica)
+------------------------------------
+Broadcast
+
+ffff:ffff:ffff
+
+Como o switch envia
+------------------------------------
+Backplane
+
+Qp*v*2
+Número de portas
+Velocidade
+Full duplex
+
+48=1 gbps
+4=10 gbps
+Uplink
+
+
+48x1000x2=96.000 Mbps
+
+4x10.000x2=80.000mbps
+
+176.000 Mbps
+176 gbps
+
+Forwarding rate ou capacidade de encaminhamento
+
+Mpps(milhões de pacotes por segundo)
+
+Mpps bps=Mpps*tp*8=throughput
+
+500x64x8=256.000 bps/256kbps
+------------------------------------
+Tabela Cam x arp
+------------------------------------
+Switch modular- capacidade
+
+Marcas:
+
+Cisco
+Huawei
+Juniper
+Dell
+Datacom
+Hp
+------------------------------------
+Switch de distribuição....tipos
+------------------------------------
+Frame ethernet 802.1Q e 1d
+
+Payload=carga de pacotes o que significa que é o que ele realmente envia.
+------------------------------------
+Tag ou vlan
+
+Fls=CRC(checagem)
+
+0-4095- VLANs pode variar
+------------------------------------
+Dei/cti
+pcp
+Tpci
+------------------------------------
+Vlan 1 padrão, default todas as portas
+
++Roteador (Gateway) para diferentes VLANs se comunicarem
+------------------------------------
+Acess(untagged - 1)
+Trunk(tronco) vários(Tagged)
+
+Cascateamento, repetidor, mas não muito certo usar muito, no máximo 5 equipamentos.
+
+-se para um para tudo
+-são repetidores
+
+Vlans diferentes podem precisar de roteador ou não.
+
+Rota é o Gateway
+------------------------------------
+Loop camada 2
+
+Broadcast storm ou loop
+
+Todas as portas exceto a que ele recebeu.
+
+Stp-Spanning Tree Protocol
+
+por padrão da cisco geralmente vem habilitado outras marcas não, se fechar um loop ele bloqueia se habilitado.
+------------------------------------
+Root bridge, eleição do switch
+
+Número da prioridade=32769
+
+32768+1 vlan
+
+Hello bpdu
+
+Quanto menor o endereço MAC melhor é a prioridade.
+Escolhe sempre a partir do menor endereço MAC.
+
+Ele possui como um dos elementos a porta designada.
+
+O custo é ligado a velocidade da interface.
+
+Ele bloqueia o tráfego de dados, mas existe comunicação caso precise.
+
+Log flap
+------------------------------------
+Roteadores
+
+Físicos e virtualizados (csr 1000-v)
+
+Aws, Google....
+
+Protocolos rip, asas...
+
+Roteadores modulares
+
+Encapsulamento ethernet e tipos
+
+Diagrama ipv4
+
+Rps=protocolo da topologia anel
+
+Safe mode
+------------------------------------
+Stp
+Rstp 
+802.1d,1w e 1s
+
+Radius , tacacs, link later Discovery protocol(lldp),ldap, ad, servidor acesso
+------------------------------------
+https://www.dltec.com.br/blog/redes/protocolos-de-roteamento-ip/#:~:text=O%20protocolos%20de%20roteamento%20IGP,utilizado%20como%20EGP%20na%20Internet.
+
+IGP: RIP, OSPF, IS-IS, IGRP e EIGRP.
+
+Temos os seguintes tipos de funcionamento:
+
+Protocolos Vetor de Distância ou Distance Vector (exemplos: RIP e IGRP)
+
+Protocolos Link State ou de estado de enlace (exemplos: OSPF e IS-IS)
+
+Protocolos Híbridos ou vetor de distância avançado (exemplo: EIGRP)
+
+Protocolos Path Vector (exemplo: BGP)
+
+(RIP, OSPF, BGP4, STP,RSTP,ISIS,RNP)
+
+
+Protocolos de roteamento
+---------------------
+*Grupo 8* 
+
+https://www.linkedin.com/posts/juniper-networks_dyk-junipers-first-system-in-the-1990s-activity-6982413244887945216-ECzt?utm_source=share&utm_medium=member_android
+
+Juniper switch
+------------------------------------
+Datasheet tv
+------------------------------------
+Comandos anotar e função
+
+O que pode fazer no programa
+------------------------------------
+https://sites.google.com/site/conhecimentodorenato/cisco/configurando-vlan-e-porta-trunk-em-switchs-cisco
+------------------------------------
+Ios - cisco
+Junos-os - juniper
+Dm-os-datacom
+
+Gns3 e eve-ng -emuladores
+
+>Usuário
+-enable
+
+Show
+
+#root
+-configure t
+
+Config#root global
+
+Wlc=wireless Lan controler, controladora wifi
+------------------------------------
+https://www.instagram.com/p/CjUZjV9Ljvi/?igshid=MDJmNzVkMjY= - olha que bacana os percurso e as escolhas para programadores
+------------------------------------
+https://www.instagram.com/p/CjQNuuUvtlF/?igshid=MDJmNzVkMjY=
+------------------------------------
+https://mega.nz/folder/TIEnGR7Y#uSTNfP3l58PCdY4FAwk5EQ
+https://www.youtube.com/watch?v=VdMLBi0iYQg
+
+https://www.youtube.com/watch?v=H01eZjdcHTo&list=PL00BB47ED11D946BC&index=6
+
+playlist
+
+Switch
+
+Enable
+conf t
+vlan 2
+Name nome da vlan
+end/exit/ctrl +z
+
+int f0/1
+switchport access vlan 2
+
+show vlan brief
+
+Show running-config
+Crtl+ shift+6 erro 255
+Cop rw sta
+Hostmame nome
+
+Speed
+10 Mbps
+100 Mbps
+1000 Mbps
+AUTO
+
+
+Roteador
+
+No shutdown
+Show ip route
+interface gigabitethernet 0/0/0.10
+10 é a vlan referenciada
+
+encapsulation dot1Q 10
+
+IP address 192.168.0.254 255.255.255.0
+copy running-config startup-config
+------------------------------------
+Roteador
+
+Lan
+
+Trocar nome 
+conf t
+hostmame sp
+
+exit
+
+show running-config
+
+conf t
+
+int f0/0
+IP add 192.168.0.1 255.255.255.0
+
+no shutdown
+
+no IP add
+description porta Lan de sp
+
+crtl+z
+
+
+show running-config
+
+Wan
+conf t
+IP add 200.100.10.1 255.255.255.0
+no shutdown
+
+Bandwidth 128
+clock rate 128000(somente em portas dce)
+
+description porta Wan  sp-rio
+
+exit
+show running-config
+
+Rip
+
+Router rip
+network 192.168.0.0
+
+network 200.100.10.0
+
+end
+
+show running-config
+
+
+show startup-config
+
+copy running-config startup-config
+
+show startup-config
+
+end
+
+reload
+
+
+E IP e Gateway nas máquinas
+
+
+Dhcp 
+
+Server
+Services 
+Dhcp(configurar)
+
+https://m.youtube.com/watch?v=CKqmVwJYL0M&list=PL00BB47ED11D946BC&index=4
+
+E dhcp máquinas
+
+Erase startup-config
+------------------------------------
+https://www.eduardopopovici.com/2016/09/lista-de-comandos-cisco-muito-util.html?m=1
+------------------------------------
+https://dicas.moisesandre.com.br/2019/04/como-zerar-as-configuracoes-um-roteador.html?m=1
+------------------------------------
+https://ccna.network/manutencao-arquivos-roteador-switch/
+------------------------------------
+https://www.cisco.com/c/pt_br/support/docs/smb/routers/cisco-rv-series-small-business-routers/smb4125-backup-and-restore-the-configuration-files-on-rv320-and-rv32.html
+------------------------------------
+https://tiparaleigo.wordpress.com/2021/02/01/como-fazer-backup-e-restaurar-roteador-switch-cisco/
+------------------------------------
+https://www.google.com.br/search?q=fazer+backup+e+restaurar+arquivos+de+configura%C3%A7%C3%A3o+cisco+packet+tracer&client=ms-opera-mobile&channel=new&espv=1&ei=gCNGY4uWGpaG5OUPvuOYoAI&oq=fazer+backup+e+restaurar+arquivos+de+configura%C3%A7%C3%A3o+cis&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYAjIFCCEQoAEyBQghEKABMgUIIRCgAToKCAAQRxDWBBCwA0oECEEYAFD3FVjHHmCgKWgAcAB4AIABygOIAaALkgEJMC4yLjIuMC4xmAEAoAEByAEIwAEB&sclient=mobile-gws-wiz-serp
+------------------------------------
+https://www.linkedin.com/posts/datacom-teracom_treinamento-tecnologia-oportunidade-activity-6985683380583477248-7Xr4?utm_source=share&utm_medium=member_android - olhai galera boa oportunidade de aprofundar conhecimento
+------------------------------------
+https://www.linkedin.com/posts/anciti-associa%C3%A7%C3%A3o-nacional-das-cidades-inteligentes-tecnol%C3%B3gicas-e-inovadoras_connectedsmartcities-inovaaexaetotecnolaejgica-activity-6983487691078189056-EeFQ?utm_source=share&utm_medium=member_android - olha aí galera que bacana. Parabéns @⁨Wesley Prodabel⁩ @⁨Josenil Prodabel Orozimbo⁩ @⁨Thiago⁩
+--------------------
+*Grupo 9*
+
+Comandos tércio
+
+https://ti-redes.webnode.com.br/switching/configura%C3%A7%C3%B5es%20basicas/comandos-basicos-de-switches-cisco/ - pessoal um resumo dos comandos que vimos nestes dias
+------------------------------------
+https://www.instagram.com/p/Cjps-LGrStn/?igshid=MDJmNzVkMjY= olha que bacana para pequenas infras, um controlador rasp, um router e um gateway. Com certeza uma  automação iot
+------------------------------------
+https://www.instagram.com/reel/Cjv6r9HJny1/?igshid=MDJmNzVkMjY=
+
+https://www.instagram.com/reel/CjnXblRgIWJ/?igshid=MDJmNzVkMjY=
+------------------------------------
+Default -> 0.0.0.0
+                   Ip
+
+ 0.0.0.0
+Mask
+
+Show ip route
+
+Vlan 10- 192.168.0.0/24 - vendas-192.168.0.254/24-gateway
+
+Vlan 20- 192.168.1.0/24 - faturamento-192.168.1.254/24-gateway
+
+Vlan 30- 192.168.2.0/24 - jurídico-192.168.2.254/24-gateway
+
+Vlan 100- 192.168.100.0/24 - cpd-192.168.100.254/24-gateway
+
+Comando do e no
+
+https://m.youtube.com/results?sp=mAEA&search_query=packet+tracer+curso+completo
+
+Dhcp relay
+
+Conf t
+ ip helper-address 192.168.100.1(dhcp)
+
+
+ip nat inside source list 1
+
+interface gigabitethernet 0/0/0 1 overload
+
+ip classless
+
+ip route 0.0.0.0  0.0.0.0 200.200.200.2
+
+ip low -gport version 9
+
+access-list 1 permit 192.168.0.0  0.0.255.255
+
+
+Config-if ) interface vlan 100
+
+ ip address 192.168.10.1 255.255.255.0
+
+interface vlan 200
+
+ ip address 192.168.20.1 255.255.255.0
+
+Description texto
+Senha
+Conf t
+Enable 
+
+Password
+Secret
+
+Enable secret senha
+
+
+Senha console
+Iine console 0
+Password infra
+
+
+Hora
+
+Clock set 22:00:00 oct 25 2022
+
+Show system
+
+Na configuração da senha da porta console ficou faltando apenas o comando LOGIN. Este comando habilita a senha INFRA que foi criada. Então a sequência correta fica assim:
+
+sw1(config)#line console 0
+sw1(config-line)#password infra
+sw1(config-line)#login
+
+A partir deste momento toda vez que conectar no sw1 via porta console ele vai pedir a senha criada. No nosso caso criamos a senha infra 
+
+Boa noite e até quinta 👍🏽
+
+------------------------------------
+Não tem no packet tracer
+
+Por exemplo:
+show running-config interface fastethernet 0/1
+------------------------------------
+Protocolo hsrp-vrrp
+-vip(IP virtual)
+
+2 switches de distribuição
+
+Time
+Description
+Senha
+Switch l3
+Console
+
+
+Quantidade de equipamento
+
+Tipo de equipamento
+
+Definir redes
+
+Definir (nomes e designação)
+
+Definir ip's 
+
+Definir conexões
+
+Foco regional 10
+------------------------------------
+Calcular storage CFTV online
+------------------------------------
+Sobre o nosso projeto, acabei de terminar o meu projeto sobre os equipamentos e endereçamento das redes, tanto da operadora como do laboratório. Fiz tudo baseado nas premissas do documento em PDF que está no EAD da PBH, vou detalhar em sala o que foi feito e como foi feito.
+
+Eu fiz as planilhas todas no Google Drive desta vez por que assim posso compartilhar com vcs. Estou copiando o link abaixo do drive. Como não tenho o e-mail de vcs do gmail é só vocês enviarem uma solicitação para liberação quando tentarem acessar os arquivos. Na medida que eu for recebendo eu irei  liberando os acessos.
+
+
+https://drive.google.com/drive/folders/1VPFRXsDm1Bzhnx3LQYXEh5rCLCNGaY8e
+
+Obs: os materiais serão liberados somente para aqueles que atendem aos requisitos de frequência do curso
+------------------------------------
+Para construir topologia de forma online existe essa ferramenta bem legal que só precisa de uma conta Google para acessá-la
+https://app.diagrams.net/#
+------------------------------------
+Reenviando os arquivos .pkt e png 👇🏽o modelo do switch estava incorreto. O correto é o 3650-24PS
+------------------------------------
+Roteamento dinâmico
+
+Egp(externo-bgp)
+Igor(interno rip(antigo), usados OSPF e is-is)
+
+Algoritmo de djikstra
+
+Área 0 - precisa
+------------------------------------
+Rádio Frequência 
+Banda de guarda - Anatel
+
+Frequência mais alta, mais informação e menos distância,
+
+Frequência mais baixa, menos informação e mais distância,
+
+
+Rádio enlace-modulacao
+Analógica
+-am,FM e PM(amplitude, frequência,phase-modulation)
+
+Digital
+Ask,fala,psk,apsk,qam(amplitude, frequência,phase, amplitude-phase (shift keying),quadrature-amplitude modulation)
+
+Rádio enlace PONTO a PONTO
+Enlace mini-link
+Idu(indoor unit),odu(outdoor unit)
+
+Calculo de consideração:
+-calculo de altura da antena
+-calculo distância e Azimute(ângulo 90°)
+-calculo de desempenho e disponibilidade
+-calculo de reflexão
+-perda de difração
+-perfil do enlace
+
+Ex: meu site e software rádio mobile(free)
+
+Rádio enlace multiponto
+
+Pmp(ponto multiponto)
+Igual erb (abrigo, poe...)
+Cabo f-utp
+
+
+Anatel(área de aeródromo- tamanho do prédio para o enlace)
+
+
+Linkcal Intelbras
+Isp design
+
+Calcular visada de rádio(mostrar)
+
+Taxa de frequência Anatel em pdf
+
+802.11 a/b/g/n/Ac/ax/6e
+Ver Frequência e operação
+
+Velocidade download (modulação e multiplexicacao (técnicas ofdm(Ac),ofdma(ax)
+
+
+Portas. 1,6 e 11, banda de guarda
+
+Reuso de frequência: objetivo- reduzir interferência dentro do próprio sistema
+
+5ghz menos canais (maior alcance , menos distância)
+
+Dfs e unii para climatização por exemplo
+
+
+Enlace ponto a ponto
+---------------------
+*Grupo 9 comandos*
+
+Ios - cisco
+Junos-os - juniper
+Dm-os-datacom
+
+Gns3 e eve-ng -emuladores
+
+>Usuário
+-enable
+
+Show
+
+#root
+-configure t
+
+Config#root global
+
+Wlc=wireless Lan controler, controladora wifi
+------------------------------------
+https://www.youtube.com/watch?v=VdMLBi0iYQg
+
+https://www.youtube.com/watch?v=H01eZjdcHTo&list=PL00BB47ED11D946BC&index=6
+
+playlist
+------------------------------------
+Switch
+
+Enable
+conf t
+vlan 2
+Name nome da vlan
+end/exit/ctrl +z
+
+int f0/1
+switchport access vlan 2
+
+show vlan brief
+
+Show running-config
+Crtl+ shift+6 erro 255
+Cop rw sta
+Hostmame nome
+---------------------------
+Roteador
+
+No shutdown(na interface)
+Show ip route
+interface gigabitethernet 0/0/0.10
+10 é a vlan referenciada
+
+encapsulation dot1Q 10
+
+IP address 192.168.0.254 255.255.255.0
+copy running-config startup-config
+
+
+
+ https://ti-redes.webnode.com.br/switching/configura%C3%A7%C3%B5es%20basicas/comandos-basicos-de-switches-cisco/
+------------------------------------
+Default -> 0.0.0.0
+                   Ip
+
+ 0.0.0.0
+Mask
+
+Show ip route
+
+Vlan 10- 192.168.0.0/24 - vendas-192.168.0.254/24-gateway
+
+Vlan 20- 192.168.1.0/24 - faturamento-192.168.1.254/24-gateway
+
+Vlan 30- 192.168.2.0/24 - jurídico-192.168.2.254/24-gateway
+
+Vlan 100- 192.168.100.0/24 - cpd-192.168.100.254/24-gateway
+
+Comando do e no
+
+https://m.youtube.com/results?sp=mAEA&search_query=packet+tracer+curso+completo
+
+Dhcp relay
+
+Conf t
+ ip helper-address 192.168.100.1(dhcp)
+
+
+ip nat inside source list 1
+
+interface gigabitethernet 0/0/0 1 overload
+
+ip classless
+
+ip route 0.0.0.0  0.0.0.0 200.200.200.2
+
+ip low -gport version 9
+
+access-list 1 permit 192.168.0.0  0.0.255.255
+
+
+Config-if ) interface vlan 100
+
+ ip address 192.168.10.1 255.255.255.0
+
+interface vlan 200
+
+ ip address 192.168.20.1 255.255.255.0
+
+Description texto
+Senha
+Conf t
+Enable 
+
+Password
+Secret
+
+Enable secret senha
+
+
+Senha console
+Iine console 0
+Password infra
+
+
+Hora
+
+Clock set 22:00 oct 25 2022
+
+Show system
+
+Na configuração da senha da porta console ficou faltando apenas o comando LOGIN. Este comando habilita a senha INFRA que foi criada. Então a sequência correta fica assim:
+
+sw1(config)#line console 0
+sw1(config-line)#password infra
+sw1(config-line)#login
+
+A partir deste momento toda vez que conectar no sw1 via porta console ele vai pedir a senha criada. No nosso caso criamos a senha infra 
+------------------------------------
+Não tem no packet tracer
+
+Por exemplo:
+show running-config interface fastethernet 0/1
+
+
+Ip routing
+
+Switch l3 não anotei
+---------------------------------
+Vlan 1
+Ip adress 192.168.0.1 255.255.255.0
+
+No shutdown
+
+Ping 192.168.10.10
+
+
+
+
+Telnet(não criptografado)e ssh
+
+Configuração acesso ssh:
+
+1)mudar o nome do equipamento;
+
+2)habilitar a gerência no equipamento (vlan);
+
+3) criar um domínio com o comando abaixo:
+ip domain-name infra.com
+
+4)criar usuário:
+username admin privilege 15 secret infra
+
+5) criptografar:
+crypto key generate rsa 
+Enter:
+Digita  2048
+
+
+6)setar a versão ssh:
+ip ssh version 2
+
+7) config linha acesso remoto:
+line vty 0 4
+login local
+
+8)comando ativar ssh:
+transport input ssh
+
+
+PC 1 
+
+Comand prompt
+
+ssh
+
+ssh -l admin 192.168.0.1(ip)
+192.168.10.1(Gateway)
+
+exit
+
+
+ssh -l admin 192.168.10.1
+
+Exit
+
+ssh -l admin 192.168.20.1
+------------------------------------
+
+ip na interface de gerencia 209(nome gerencia vlan)e Gateway nos dispositivos. 
+
+ip default-gateway 172...1
+
+line console 0
+
+service password encryption
+
+Nas interfaces gigabit(trunk)
+
+
+Switch l3=criar vlans e tudo do l2, ip em todos independente do setor
+
+
+Lado direito:mode access
+
+Switch l3 colocar IP no gateway da própria rede como por exemplo 100.1 na vlan100,104.1 na vlan 104
+
+no DHCP colocar somente do PC
+
+criar a vlan de gerência no Switch L2 e chamar no modo trunk, na porta g0/1 mas que não tem nas duas na verdade, no suíte L2 chamar a referência do seu IP(Switch l2) com o IP default Gateway
+
+Testar ping no Switch l2
+
+Password encryption nos l3
+
+Ip na controladora
+---------------------
+*Grupo 9.1 comandos* 
+
+professor ramos:
+
+Roteador
+
+Lan
+
+hostmame sp
+
+exit
+
+show running-config
+
+conf t
+
+int f0/0
+IP add 192.168.0.1 255.255.255.0
+
+no shutdown
+
+no IP add
+description porta Lan de sp
+
+crtl+z
+
+
+show running-config
+
+Wan
+conf t
+IP add 200.100.10.1 255.255.255.0
+no shutdown
+
+Bandwidth 128
+clock rate 128000(somente em portas dce)
+
+description porta Wan  sp-rio
+
+exit
+show running-config
+
+Rip
+
+Router rip
+network 192.168.0.0
+
+network 200.100.10.0
+
+end
+
+show running-config
+
+
+show startup-config
+
+copy running-config startup-config
+
+show startup-config
+
+end
+
+reload
+
+
+E IP e Gateway nas máquinas
+
+
+Dhcp 
+
+Server
+Services 
+Dhcp(configurar)
+
+https://m.youtube.com/watch?v=CKqmVwJYL0M&list=PL00BB47ED11D946BC&index=4
+
+E dhcp máquinas
+
+Erase startup-config
+---------------------------------------
+https://www.eduardopopovici.com/2016/09/lista-de-comandos-ciscml?m=1
+------------------------------------
+https://dicas.moisesandre.cofiguracoes-um-roteador.html?m=1
+------------------------------------
+https://ccna.network/manutencao-arquivos-roteador-switch/
+------------------------------------
+https://www.cisco.com/c/pt_br/support/docs/smb/routers/cisco-rv-series-small-business-routers/smb4125-backup-and-restore-the-configuration-files-on-rv320-and-rv32.html
+------------------------------------
+https://tiparaleigo.wordpress.com/2021/02/01/como-fazer-backup-e-restaurar-roteador-switch-cisco/
+------------------------------------
+https://www.google.com.br/search?q=fazer+backup+e+restaurar+arquivos+de+configura%C3%A7%C3%A3o+cisco+packet+tracer&client=ms-opera-mobile&channel=new&espv=1&ei=gCNGY4uWGpaG5OUPvuOYoAI&oq=fazer+backup+e+restaurar+arquivos+de+configura%C3%A7%C3%A3o+cis&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYAjIFCCEQoAEyBQghEKABMgUIIRCgAToKCAAQRxDWBBCwA0oECEEYAFD3FVjHHmCgKWgAcAB4AIABygOIAaALkgEJMC4yLjIuMC4xmAEAoAEByAEIwAEB&sclient=mobile-gws-wiz-serp
+---------------------
+*Grupo 9.2 comandos*
+softwares:
+
+Ios - cisco
+Junos-os - juniper
+Dm-os-datacom
+Entre outros
+Gns3 e eve-ng -emuladores
+
+https://m.youtube.com/results?sp=mAEA&search_query=packet+tracer+curso+completo
+video aulas
+------------------------------------
+Dentro do editor:
+
+Tecla tab ajuda, no nível certo auto completa.
+
+Modo inicial:
+>enable
+Modo comum:
+#?
+Ver opções
+Modo root Linux:
+#conf t ou configure terminal
+
+
+#show ?
+Ver opções
+#show vlan brief
+Ver organizadamente vlans
+#show running-config
+Ver o que foi feito
+#copy running-config startup-config
+Salvar configurações
+Obs:tem o comando (do) e (no), o do faz a ação de fazer comandos comuns em níveis acima e o no inverter uma ação,  no nível root global ou outros acima.
+config#root global
+
+
+
+Switch
+
+>enable
+#conf t
+config#
+
+-Alterar nome do dispositivo:
+Hostmame nome
+
+- criar vlan:
+config#vlan número da vlan
+config-vlan#name nome da vlan
+
+config#int f0/1 ou interface fast ethernet 0/1
+Acessar interface
+
+config#switchport mode access
+Acessar modo acesso
+
+
+config#switchport access vlan número
+Adicionar na interface
+
+
+Modo trunk
+
+config#int f0/1 ou interface fast ethernet 0/1 ou gigabit 
+Acessar interface
+
+config#switchport mode trunk
+Acessar modo e Adicionar na interface
+
+config#interface vlan número
+acessar vlan
+
+config-if#ip address 192.168.10.1 255.255.255.0
+ip na vlan
+
+config-if#ip default-gateway numero
+gateway no switch l2
+
+config-if#description texto
+descrição
+
+enable secret nome da senha
+Criar senha criptografada
+
+
+sw1(config)#line console 0
+sw1(config-line)#password infra
+sw1(config-line)#service password encryption
+sw1(config-line)#login
+Senha do console - a partir deste momento toda vez que conectar no sw1 via porta console ele vai pedir a senha criada. No nosso caso criamos a senha infra 
+
+Clock set 22:00 oct 25 2022
+Hora
+
+
+Roteador
+
+config-if#no shutdown
+ligar roteador
+
+#show ip route
+ver ip se está ativo
+
+config#interface gigabitethernet 0/0/0.10
+configurar a vlan 10 na porta
+
+config-if#encapsulation dot1Q 10
+encapsular e fazer o padrão 802.1Q
+
+config if#ip address 192.168.0.254 255.255.255.0
+configurar gateway
+------------------------------------
+Dhcp relay
+
+Conf#ip helper-address 192.168.100.1(dhcp)
+configurar ip do dhcp
+------------------------------------
+config-if#ip nat inside source list 1
+criar source list
+
+config-if#interface gigabitethernet 0/0/0 1 overload
+config-if#ip classless
+config-if#ip route 0.0.0.0  0.0.0.0 200.200.200.2
+config-if#ip low -gport version 9
+config-if#access-list 1 permit 192.168.0.0  0.0.255.255
+
+
+- sair de níveis:
+end ou ctrl +z
+Volta dois níveis
+
+exit 
+Volta um nível
+
+
+Aparece o erro
+
+erro translating domain server (255.255.255.255), não achou comado.
+Crtl+shift+6 ou config#no ip domain-lookup
+https://m.youtube.com/watch?v=8pAD0QVSt9c
+
+Default -> 0.0.0.0 Ip 0.0.0.0 Mask 
+ip address 172.16.100.2 255.255.255.0 ou 0.0.0.0 0.0.0.0
+
+-link de comandos:
+
+https://ti-redes.webnode.com.br/switching/configura%C3%A7%C3%B5es%20basicas/comandos-basicos-de-switches-cisco/
+------------------------------------
+Link  de aulas:
+https://www.youtube.com/watch?v=VdMLBi0iYQg
+
+https://www.youtube.com/watch?v=H01eZjdcHTo&list=PL00BB47ED11D946BC&index=6
+
+playlist
+------------------------------------
+
+
+Switch l3 e ssh 
+
+Telnet(não criptografado)e ssh
+
+
+Configuração acesso ssh:
+
+1)mudar o nome do equipamento;
+
+2)habilitar a gerência no equipamento (vlan);
+config-if#ip routing
+config#vlan 1
+config-if#ip adress 192.168.0.1 255.255.255.0
+config-if#no shutdown
+
+#Ping 192.168.10.10
+
+3) criar um domínio com o comando abaixo:
+config#ip domain-name infra.com
+(utilizado para o nome da chave rsa)
+
+4)criar usuário:
+config#username admin privilege 15 secret infra
+(cria um usuário “lucas 1�7 com  privilégio  1�715 1�7 e senha secret  1�71234 1�7, você pode criar diversos usuários com outros privilégios)
+
+
+5) criptografar:
+config#crypto key generate rsa 
+Enter:
+Digita  2048
+(cria uma chave de criptografia rsa, escolha a quantidade de bits)
+
+
+
+6)setar a versão ssh:
+config#ip ssh version 2
+(instalar versão ssh)
+
+7) config linha acesso remoto:
+config#line vty 0 4
+(entra na configuração do ssh)
+config#login local
+(utiliza autenticação local)
+
+8)comando ativar ssh:
+transport input ssh
+
+
+PC 1 
+
+Comand prompt
+
+ssh
+
+ssh -l admin 192.168.0.1(ip)
+192.168.10.1(Gateway)
+acessar maquinas
+
+exit
+
+
+ssh -l admin 192.168.10.1
+
+Exit
+
+ssh -l admin 192.168.20.1
+---------------------
+*Grupo 10*
+
+https://www.nic.br/
+
+https://beta.simet.nic.br/
+
+https://brainwork.com.br/page/13/?s=comandos
+------------------------------------
+Conceito:
+
+Rede fttx (fttn(metálico), fttc(metálico), fttb(entrada do prédio), ftth(até a casa do assinante))
+Fiber to the node , curb, building, home.
+
+
+Eli, elr- armário adsl
+
+Tecnologia:
+
+Rede óptica passiva
+Rede pon(passível optical Network), ponto multiponto...
+
+Wdm
+Só passivo
+Acoplador óptico passivo, tecnologia awg(arrayed waverguide gratings), ranhuras em substrato de semicondutor, age como roteador de lambdas
+
+Splitter óptico (divide)
+
+Divisor de potência (1:2 até 1:64)
+
+Técnica fbt(fusão- puxamento) e plc circuito
+
+Aplicações da rede pon:
+Internet, monitoramento eletrônico, iot, tv por assinatura, vídeo on demanda,interfona, telefonia, jogos)
+
+Dowstream e upstream diferente de PC, para a rede toda , dois canais operam em mesmas frequência.
+Ont/onu
+
+Gpon(itu-t g.984) x epon(ethernet 802.3 ah)
+Xgpon,xgspom(novo até 10gbps)
+Ngpon(40 gbps)
+
+Equipamento olt(cada porta pode até 128 clientes) - splitter - divide as fibras
+
+Pode ter mais clientes
+
+Pol(passível optical Lan)=pon Lan
+
+Menos consumo de energia, otimização de espaço, manutenção melhor, melhor alcance, escalabilidade, qualidade de conexão, redução de custos, integração...
+
+Tipo de tranciever gpon:classe b+, classe c+, classe d
+
+Orçamento de potencia
+
+Cálculos básicos 
+
+Op= ptx-srx 
+Mp=op-pe
+
+Ptx(potência)
+Srx(sensibilidade de recepção)
+Pe(perda do enlace total)
+Slide 
+
+Potência, sensibilidade =dbm
+Perda, atenuação e margem= db
+
+Para projetos considerar:
+Perda de fibra óptica, no splitter, emendas, conectores, margem de segurança
+
+Margem de segurança em projetos gpon
+
+Trabalhar com pior caso
+------------------------------------
+ *Visita prodabel:* 25/11/22 -09:00-10:30
+
+ *Avisar Beto* e *preparar contratação* *_(talvez)_* , já vou estar *lá mesmo* já se alinha com muito cuidado.
+
+Na semana dos dia 21/11 à 25/11 aula todos os dias - Reposição aula
+------------------------------------
+Port security comandos
+
+Protocolo 802.1x , regras 
+
+L3 vpn
+------------------------------------
+Gerenciamento e monitoramento de redes
+
+
+Fundamentos
+
+Conhecer topologia, backup das configurações, conhecer padrões do conhecimento (banda, consumo de memória, etc...)baseline ou linha de base 
+
+Netflow
+
+Snmp v1,v2c,v3(gerenciamento de rede) porta udp 161 e 162
+
+Agente software que opera no modo servidor, instalado a cada dispositivo a ser gerenciado(nms-network management system)
+
+Oid(identificador do objeto)/mib(biblioteca- faz a base do dispositivo)
+
+Aplicativo: apresentação coletadas e pela interface do sistema de gerência com o usuário
+
+Tipos de mensagens snmp:
+
+Get: do manager para o agente, solicita os valores de um objeto da mib
+
+Get/next, set,Get response,trap(threshold-linear)
+
+Camada 7, organiza e coleta informações dos dispositivos gerenciaveis em uma rede ip, comportamento dos dispositivos, padronizado pela rfc1155,1157
+
+Comandos no slide :
+snmp-server comunity ro
+
+snmp-server host 12.12.12.99
+
+snmp-server enable traps
+
+Poll x trap
+Poll: informação de um intervalo de tempo previamente configurado, sincrona, origem central de monitoramento, instante.
+
+Trap: imediata, em tempo real por algum incidente.
+
+Os dois modelos possuem características, monitoramento adequado normalmente busca o melhor dos dois mundos: híbrido com polling e trap
+
+Polling 
+
+Tipo half duplex (desenho slide )
+
+
+Traps tipo duplex(desenho slide)
+
+ *Bateria de switch* 
+
+Cor ambas vermelha, cor verde ideal
+
+Smtp(envio de e-mail)
+
+Netflow (protocolo como snmp que envia
+para aplicação)
+Características:
+.Monitoramento da granularidade do
+tráfego;
+
+.Detecção de inconformidades de maneira
+antecipada;
+.Monitoramento de aplicações;
+.Validação das políticas de QOS(Qualidade de
+serviço - beneficiar usuários ou serviços para
+outros);
+.Planejamento de capacidade;
+.Identificação de ameaças
+digitais(malwares);
+QUALIDADE DE SERVIÇO(DISCIPLINA
+ESPECÍFICA)
+Diferencia pelo tipo de serviço e protocolo
+específico do vídeo.
+Protocolo criado pela cisco, prover análise
+granular fluxo de dados em dispositivo, o
+netflow compreende um detalhe melhor)
+Algoritmo fifo em redes
+
+.Syslog usa porta 514 UDP;
+.As mensagens de log ficam salvos na RAM;
+.O melhor é exportar essas mensagens para
+um servidor de syslog;, como outros
+protocolos, tabela de severidade(1 até 5),
+menor, , mais perigoso
+Line protocol x interface (camada física e
+enlace)
+#show log - histórico de log no dispositivo
+resiliencia na memória(perdido quando
+reiniciado)
+resiliencia no dispositivo(acessa dispositivo
+para mensagem de log)
+ex: software(graylog)
+Slide
+Syslog(Protocolos)
+Características:
+.Syslog captura mensagem de status chave
+de dispositivos da rede;
+.Ativos de rede são capazes de gravar
+mensagens de syslog localmente ou em
+servidores remotos;
+---------------------
+
+-layer cur
+-layer off
+-layer iso
+-erase
+-draworder
+-alinhar(al)
+-aparar(ap)
+-_break/quebrar
+-purge
+_join
+_pedir
+
+
+Snap(f3) e f8(ortogonal)
+
+Impressão:
+-mapa
+-planilha
+-documento em PDF do sdm.
+
+Petim(pavimentação, energia, telefonia, iluminação publica, meio fios)
+
+
+ *Pc e sisctm:* 
+
+https://sisctm.pbh.gov.br/mapa/
+
+pb003445
+Cadcom!1
+
+ *map info:* 
+fernando_stenio
+Giz8TI
+
+
+Memorial 
+Comando ID e DI, menu cotas e formatar , para medir em °,' e "
+
+Jogar coordenadas no comando Pl, o (E e N)
+6.88838,7.73783
+
+
+
+*Imagem drone:* 
+
+
+\\fileserver\geodrone\\dados_producao\georeferenciado\ortomosaico\nome_arquivo.tif\
+
+
+Copiar arquivo tif
+
+No sisctm(ctm), levantamento drone
+
+Lançar se não tiver lançado
+
+Obs: sisctm ajuda a pegar o achar o nome do arquivo
+
+
+https://bhmapogcbase.pbh.gov.br/bhmapogcbase/geodrone/wms
+
+Qgis
+
+Camada, adicionar imagem Raster
+
+A vetorial é o dxf
+------------------
+Delimitar a área  AutoCAD
+Criar pl em volta, dxf e  pastorig em arquivo novo
+
+
+Após ir em camada:
+Adicionar camada Raster e selecionar o arquivo tif maior, adicionar a camada vetorial que o arquivo criado no AutoCAD pelo comando retângulo e em seguida, menu vetor- geometrias-linhas para polígonos, salvar o arquivo .shp na pasta.
+
+Depois no menu raster- extração-cortador,
+
+Em arquivo de saída salvar a imagem que vai ser cortada e o local,depois em camada máscara que o nome do arquivo .shp aparece e ok , depois fechar
+
+Para 
+/earth
+
+Criar polígono, cercar area, salvar em kml,menu: Raster, extração, cortador,
+
+
+Camada máscara= arquivo tif
+
+
+Briscad que gera o dxf e salva em dxf 2000.
+
+Clicando em inserir-anexar imagem raster- salva em 2000 dxf e depois insere no AutoCAD, com o draworder e os pontos com o pasteorig
+
+
+Planimétrico
+Planialtimétrico
+
+
+
+Para ver os pontos no maps:
+
+Adicionar camada Vetorial - dxf, depois vai em web - Quick não services - Google - Google satélite
+
+
+
+Gerar croqui mapa para monografia 
+
+Sisctm
+1)	Acessar sisctm: https://sisctm.pbh.gov.br/mapa/
+2)	Menu CTM
+3)	Menu pesquisar (lupa)-endereço (1° opção)
+4)	Mapa base (3° opção) – CTM
+5)	Camadas (2° opção)
+6)	Camada levantamento topográfico e aéreo  -> Marcos Geodésicos ->  3 pontos  -> Personalizar estilo ->Aplicar 
+7)	Camada sistema viário ->trecho de logradouro -> 3 pontos -> personalizar estilo -> aplicar
+8)	Botão imprimir no canto superior direito
+9)	Modelo – A4-GECAP
+10)	Apagar o desnecessário
+11)	Deixar só o desenho do norte
+12)	Imprimir -> Pdf
+13)	Converter pdf para jpg/png online
+14)	Inserir na planilha a imagem
+15)	Digita o texto recebido ou achado/convertido no map info, site...
+16)	Inserir a logo e a  imagem da prodabel(pag 1) do documento
+Obs:
+- As camadas escadaria e marcos geodésicos ficam em: levantamento topográfico e sistema viário.
+- Márcio e Adriano vão me enviar os dados
+- Preenche no google planilhas de acordo com o padrão deles
+-2 imagens na parte de frente e 2 na parte de trás, mapa limpo, foto do local comprovando os números citados na descrição do problema/solução
+- Impressão: Layout paisagem com uma página de texto e outra com 2 imagens
+
+
+
+Auto cad
+1)	Pegar arquivo da restituição
+2)	Layoff ou selecionar similar para limpar o desenho
+3)	Criar um desenho: circulo, triangulo, desenhar o marco...
+4)	Imprimir usando o driver publish to web png.
+5)	Em área de plotagem, botão janela para definir  limite
+6)	Opcional: otimização estilo de plotagem, atribuição de caneta
+
+*Cadastro técnico:* 
+Praça
+
+Infraestrutura:
+Meio fio
+Meio fio quadra
+
+ *Levantamento topográfico e aéreo:* 
+Área de monitoramento para atender
+
+Divisa física de lote
+Levantamento drone
+Objeto campo
+
+
+ *Limite político administrativo:* 
+Bairro oficial
+Bairro popular
+
+ *Sistema viário:* 
+Elementos do sistema viário
+
+Escadaria
+Passarela
+Ponte
+Rodovia
+Trecho de logradouro
+Túnel
+Viaduto 
+
+---------------------
+Meio fio e sono
+---------------------
+-mapa qgis html-leaf
+-conceitos
+-menus auto-cad
+-arx
+-algoritmo
+-locais para sisctm(earth)
+-croqui
+---------------------
+Sarpas voo drone
+logar com o gov
+Solicitar voo
+
+Mudar para perfil prodabel
+Phantom 01
+Operações emergênciais/especiais
+Nome (arbitrário)
+Piloto Fernando
+Tipo de voo (vlos)-visual
+Observação preencher
+
+Data/dia/hora
+08:30/18:00
+
+2) localização:
+Local (rua)
+Raio (1000)
+Análise preliminar
+Altura (120)
+
+Observação e aguardar aprovar
+---------------------
+Endereço:
+
+Imagem drone
+Restituição (mover local -earth)
+Mover pontos   para edificação
+
+Mover pontos para arquivo novo
+
+Map info, campo nulog, 
+--------------
+ABRIR - IMPORTAR (DXF)
+
+UTM 23 S
+
+SALVA O TAB
+
+LISTAR TABELA
+-----------
+TABELA - MODIFICAR ESTRUTURA CRIAR CAMPOS
+
+ID_LOGRADOURO CARACTERE(6)
+
+NÚMERO_IMOVEL DECIMAL (7,0)
+
+LETRA_IMOVEL CARACTERE(1)
+
+OCUPAÇÃO CARACTERE(20)
+
+REMOVER CAMPO ID
+-------------
+TABELA - ATUALIZAR TABELA
+-------------
+Clica no ponto e localiza, preenche a tabela
+Obs:RS residência e tabela -atualizar coluna para texto igual
+
+
+E apaga texto
+---------------------
+o programa, versao 2.11, vertical, alterar a linar marker com 932, ppp ibge: https://www.ibge.gov.br/geociencias/informacoes-sobre-posicionamento-geodesico/servicos-para-posicionamento-geodesico/16334-servico-online-para-pos-processamento-de-dados-gnss-ibge-ppp.html?=&t=processar-os-dados,  processar dados,e statico arquivo.o(maior),altura e email e processa
+----------------------
+3 meses(experiência)
+
+segue abaixo as atividades de escritório desenvolvidas pelo colaborador Lucas Mello:
+
+Organização dos arquivos digitais dos levantamentos;
+Backup na nuvem dos arquivos do setor;
+Georreferenciamento interno dos pontos das antenas (PID WIFI);
+Descarregamento dos arquivos da Estação Total;
+Desenho dos levantamentos de campo com Estação Total;
+Descarregamento dos arquivos de levantamento com o GNSS RTK;
+Desenho dos levantamentos realizados com o GNSS RTK;
+Carregamento das baterias dos equipamentos de campo (RTK, Estação Total e Rádios);
+Inspeção da base para identificação de locais para novos levantamentos;
+Preparação de Modelo (Template) para a Monografia dos Marcos.
+----------------------------------
+Pós 3 meses:
+
+Conversão de Gns para PDF com software portable e site IBGE
+
+Continuação do serviço de lançamento de antenas e desenhos do locais visitados
+
+Procura e lançamento no sisctm de locais para visitas para fazer o levantamento e depois da sua edição
+
+Lançamento de informações no sisctm
+
+Filtro por nome de ruas para ter um padrão entre bairro oficial e popular
+
+Software baseado no blender para edição de imagens de drone
+
+
+Posicionamento para o georreferenciamento de pontos posicionados pela média
+
+Planilha com utilização de programação em visual Basic sobre conversão de azimute para norte e este
+
+Utilização de automatização em lisp e arx
+
+Desenvolvimento de ferramentas em Java script e html , como conversão de txt para HTML...
+----------------------
+Tem duas situações:
+1- Levantamento topográfico (meio-fios, muros, divisas, etc...) onde a gente aproveita e pega os enderecos e infraestrutura na área do levantamento.
+2- Levantamento de endereços
+
+
+
+No caso 1 a numeração vai no próprio dxf do levantamento. 
+No caso 2 a gente cria a tabela no mapinfo.
+
+
+Vai lançar esse endereço com o círculo em volta.  Igual a gente sempre fez.
+
+
+Levantamento só de endereço, tipo o que fizemos na rua progresso é o que lançamos usando a base.
+
+Vc vai lançar o endereço no dxf, no arquivo do nosso levantamento.
+----------------------
+Menu esquerdo adicionar camada WMS/WMTS
+
+Geodrone -conectar-adicionar(aceita uma por vez)
+
+Novo compositor de impressão-zoom na área específica-adicionar novo mapa-exportar como imagem
+
+Ou método tradicional
+Dxf-geometrias-linhas para polígono-raster-extracao-cortador
+Obs:pode pegar a imagem direto do servidor também
+
+\\geodrone_fs
+--------------------
+Editar imagem drone(manual com ele e publicação no sisctm e também no \\geodrone_fs+programa Wondershare que usa para editar)
+
+
+https://bhmapogcbase.pbh.gov.br/bhmapogcbase/geodrone/wms
+----------------------
+Pratique ideias de treino:
+
+Treino A
+1x50 abdutora deitada com caneleira  de 5k ( sim, 50 repetições ) 
+
+5x8 Elevação da pélvica ( força no calcanhar ) CARGA ALTA
+4x10 glúteo coice ( apenas 10 segundos de descanso ) fazer uma perna completa primeiro
+4x10 agachamento sumo 
+Stiff + mesa flexora 4x15
+
+4x10  glúteo lateral  Cross ( REST POUSE
+4x10 glúteo lateral deitada com caneleira ( REST POUSE
+ 
+REST POUSE
+Significa que você faz a serie com número de reps indicado, para por 10 segundos descansando e volta fazer até falhar. Exemplo (faça 10 reps depois descanse 10 segundos e volta até a falha, dai você descansa 30 segundos e faca o restante de séries pedidas
+
+
+Treino B
+Elevação lateral 
+Desenvolvimento ombro
+Tríceps pulley 
+Remada baixa 
+Pulley frente
+Rosca direta 
+Supino reto
+👆 4x15
+
+
+Treino C 
+Extensora 1x30 ( segurar dois segundos em cima ) 
+Agachamento livre ( rest pouse 
+Agachamento sumo ( rest pouse 
+Extensora( rest pouse 
+Leg 45 5x10 ( carga média 
+Passada 3x20 ou até falhar 
+
+REST POUSE
+Significa que você faz a serie com número de reps indicado, para por 10 segundos descansando e volta fazer até falhar. Exemplo (faça 10 reps depois descanse 10 segundos e volta até a falha, dai você descansa 30 segundos e faca o restante de séries pedidas
+
+
+Treino D  
+Elevação lateral + frontal 4x10
+Rosca martelo + rosca dirsta 3x10
+Tríceps corda 3x15
+Tríceps pulley 3x15
+Panturrilha 5x10
+Abdominal supra 5x10
+Abdominal infra 
+
+Treino E 
+Stiff 4x15 
+Stiff unilateral 4x20
+Mesa flexora  4x10 ( carga alta) + 1x falha carga média 
+Búlgaro 4x15
+Stiff uni 3x15
+Leg press 3x15
+
+30 minutos de aeróbico de pós treino
+fim
+----------------------
+----------------------
+----------------------
+----------------------
+
+
+
